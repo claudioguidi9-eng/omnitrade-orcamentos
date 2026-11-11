@@ -1,0 +1,36 @@
+{
+  "name": "Omnitrade Brasil - Sistema de Engenharia de Orçamentos",
+  "short_name": "Omnitrade Orçamentos",
+  "description": "Sistema de Orçamentos e Propostas Técnicas Oficiais da Omnitrade Brasil",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#00ADEF",
+  "icons": [
+    {
+      "src": "/assets/omnitrade_logo_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/omnitrade_logo_256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/omnitrade_logo_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/omnitrade.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

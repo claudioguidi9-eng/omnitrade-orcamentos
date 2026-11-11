@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "functions": {
+    "server.js": {
+      "includeFiles": "{index.html,otb_engine.js,otb_ui.js,sw.js,manifest.json,Criar_Atalho_Omnitrade.bat,assets/**,data/**}"
+    }
+  },
+  "headers": [
+    {
+      "source": "/Criar_Atalho_Omnitrade.bat",
+      "headers": [
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename=\"Criar_Atalho_Omnitrade.bat\""
+        }
+      ]
+    },
+    {
+      "source": "/assets/Criar_Atalho_Omnitrade.bat",
+      "headers": [
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename=\"Criar_Atalho_Omnitrade.bat\""
+        }
+      ]
+    },
+    {
+      "source": "/sw.js",
+      "headers": [
+        {
+          "key": "Service-Worker-Allowed",
+          "value": "/"
+        }
+      ]
+    }
+  ]
+}

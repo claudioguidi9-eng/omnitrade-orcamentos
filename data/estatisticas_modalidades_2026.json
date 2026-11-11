@@ -1,0 +1,24 @@
+{
+  "total_projetos_analisados": 570,
+  "total_itens_extraidos": 62474,
+  "total_pipeline_venda": 824925303.8606968,
+  "tempo_extracao_segundos": 114.55,
+  "modalidades": {
+    "Faturamento Direto": {
+      "itens": 695,
+      "valor": 210295376.1341011
+    },
+    "Materiais Nacionais": {
+      "itens": 7284,
+      "valor": 81328592.21020769
+    },
+    "Materiais Importados": {
+      "itens": 5797,
+      "valor": 49615213.08086874
+    },
+    "Serviços": {
+      "itens": 48698,
+      "valor": 483686122.4355263
+    }
+  }
+}

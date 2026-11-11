@@ -1,0 +1,212 @@
+Row 2: PROPOSTA ///  ///  ///  ///  ///  ///  /// MAT NAC /// MAT IMP /// MAT FAT /// MDO ///  ///  /// 
+Row 3:  ///  ///  ///  ///  /// Data: /// 2024-05-29 00:00:00 /// 2873432.4188914914 /// 12501567.581108507 /// 4500000 /// 6625000 ///  ///  /// 
+Row 4:  /// Proposta para: ///  ///  ///  /// Proposta: /// BR_23263RCS_2.6B_OPÇÃO FIXO AQUAPANEL ///  ///  ///  ///  ///  ///  /// 
+Row 5:  /// GALILEU (CPQ011, SP) - HORTOLANDIA, SP - PVC 810/V - 2mm (FATRA) - COBERTURA E FACHADA ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 8: Art. /// Descrição ///  /// Un /// Qtd. /// P. Unitário /// P. Total ///  ///  ///  ///  ///  ///  /// 
+Row 10:  /// CANTEIRO ///  ///  ///  ///  ///  /// MAT NAC /// MAT IMP /// MAT FAT /// MDO ///  ///  /// 
+Row 11:  ///  ///  ///  ///  ///  ///  /// 2877771.4496620367 /// 12436886.57659306 /// 4560341.973744912 /// 6625000 ///  ///  /// 
+Row 12: CANT. /// SERVIÇOS GERAIS CANTEIRO:
+- Meios de descarga, movimentação e elevação de materiais;
+- Meios de elevação dos montadores;
+- Escadas de acesso à cobertura;
+- Meios de proteção coletiva;
+- Container de almoxarifado;
+- Transporte de materiais. ///  /// vg /// 22776.6 /// 61.30535263774615 /// 1396327.494888889 /// 15374999.996255098 /// 60341.97 ///  /// 0.24999999999999992 /// 26500000.000000007 ///  /// 
+Row 13:  /// Medições conforme avanço dos serviços executados. ///  ///  ///  ///  ///  /// 7424999.996255096 ///  ///  ///  ///  ///  /// 
+Row 14:  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 7950000.000000002 ///  /// 
+Row 15:  /// SEGURO ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 17: SEG. /// Seguro Performance Bond 20%. ///  /// vb /// 1 /// 63099.109408561184 /// 63099.109408561184 ///  ///  ///  ///  ///  ///  /// 
+Row 19:  /// GARANTIA ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 21: GAR. /// Garantia 30 anos
+(Garantia da membrana ‐ fabricante) ///  /// m² /// 22776.6 ///  /// INCLUSO ///  ///  ///  ///  ///  ///  /// 
+Row 23: 1 /// COBERTURA DECK ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 25: 1.1 /// Montagem de revestimento de cobertura em sistema deck, constituido por: ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 27: 1.1.1 /// Fornecimento e montagem de cobertura com membrana termoplastica constituido por:
+- Telha de suporte em chapa de aço galvalume esp.ª 0,65 mm pré pintada 1 face RAL 9003;
+- Barreira de vapor em filme de PE BD azul translucido esp.ª 150 microns fixado com fita adesiva nas sobreposições;
+- Isolamento térmico em placas de PIR NACIONAL esp.ª 75 mm;
+- Aquapanel esp.ª 12,50 mm, fixo mecanicamente a telha de suporte;
+- Impermeabilização em manta PVC 810/V com Certificação FM branca esp.ª 2mm fixada mecanicamente.
+
+Considera-se faturamento direto do PIR, BARREIRA VAPOR e TELHAS. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 28:  /// A telha proposta permite, para 3 ou mais apoios, um vão máximo de 2500 mm. Considera-se faturamento direto da Telha, Aquapanel, barreira vapor, PIR nacional. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 30: 1.1.1.1 /// - Materiais de faturamento direto. ///  /// m² /// 22776.6 /// 163.46099985067616 /// 3723085.8091989104 /// 672.055472686311 ///  ///  ///  ///  ///  /// 
+Row 32: 1.1.1.2 /// - Materiais Nacionais. ///  /// m² /// 22776.6 /// 50.96810196078432 /// 1160880.07112 ///  ///  ///  ///  ///  ///  /// 
+Row 34: 1.1.1.3 /// - Materiais Importados. ///  /// m² /// 22776.6 /// 388.5151663258333 /// 8849054.537336975 ///  ///  ///  ///  ///  ///  /// 
+Row 36: 1.1.1.4 /// - Serviços. ///  /// m² /// 22776.6 /// 69.11120454901723 /// 1574118.2615311458 ///  ///  ///  ///  ///  ///  /// 
+Row 38: 1.2 /// Fornecimento e montagem de calhas externas, considerando: ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 39: 1.2.1 /// - Calha em chapa galvalume pré-pintada ambas as faces Ral 9003, com 0,95 mm esp.ª e desenvolvimento máximo de 900 mm, com sobreposição fixa mecanicamente.
+
+Estão incluidas as fixações necessárias a um perfeito acabamento. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 40:  /// Excluido fornecimento e montagem de impermeabilização das calhas. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 42: 1.2.1.1 /// - Materiais Nacionais. ///  /// m /// 785.4 /// 222.16546627234015 /// 174488.75721029594 ///  ///  ///  ///  ///  ///  /// 
+Row 44: 1.2.1.2 /// - Serviços. ///  /// m /// 785.4 /// 48.74518703739068 /// 38284.46989916664 ///  ///  ///  ///  ///  ///  /// 
+Row 46: 1.3 /// Fornecimento e montagem de remate de fecho do sistema de impermeabilização na transição cobertura-calha, considerando:
+- Remate em chapa colaminada, com 1,4 mm esp.ª e desenvolvimento máximo de 150 mm;
+- Membrana sem armadura, termosoldada à membrana da cobertura existente, de forma a garantir o fecho do sistema de impermeabilização e a estanquidade da cobertura.
+
+Estão incluidas as fixações e vulcanizações necessárias a um perfeito acabamento. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 48: 1.3.1 /// - Materiais Importados. ///  /// m /// 902.4 /// 273.3417854839234 /// 246663.62722069246 ///  ///  ///  ///  ///  ///  /// 
+Row 50: 1.3.2 /// - Serviços. ///  /// m /// 902.4 /// 44.18639545348305 /// 39873.8032572231 ///  ///  ///  ///  ///  ///  /// 
+Row 52: 2 /// SISTEMAS COMPLEMENTARES ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 54: 2.1 /// Fornecimento e montagem de caminhos de circulação,
+constituídos por:
+‐ Marcação das linhas das passarelas;
+‐ Limpeza da manta da cobertura com tiner adequado para
+permitir a termofusão das mantas;
+‐ Aplicação da manta reforçada e anti‐derrapante, na cor cinza, larg. 1025mm, por termofusão à manta da cobertura.
+
+Estão incluidas as vulcanizações necessárias a um perfeito
+acabamento. ///  /// m /// 786.4 ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 56: 2.1.1 /// - Materiais importados. ///  /// m /// 786.4 /// 533.4849530802435 /// 419532.56710230344 ///  ///  ///  ///  ///  ///  /// 
+Row 58: 2.1.2 /// - Serviços. ///  /// m /// 786.4 /// 38.503307296517114 /// 30279.000857981056 ///  ///  ///  ///  ///  ///  /// 
+Row 60: 2.2 /// Fornecimento e montagem de sistema de linha de vida, considerando:
+- Marcação da localização;
+- Corte dos revestimentos (telha, isolamento e manta);
+- Montagem dos pontaletes, cabo aço galvanizado e acessórios inox.
+
+Estão incluidos as fixações e vulcanizações necessárias a um perfeito acabamento.
+Projeto e ART incluso ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 62: 2.2.1 /// - Materiais Nacionais. ///  /// m /// 786.4 /// 353.249465824863 /// 277795.37992467225 ///  ///  ///  ///  ///  ///  /// 
+Row 64: 2.2.2 /// - Materiais Importados. ///  /// m /// 786.4 /// 144.4492755002099 /// 113594.91025336506 ///  ///  ///  ///  ///  ///  /// 
+Row 66: 2.2.3 /// - Serviços. ///  /// m /// 786.4 /// 86.25125867492801 /// 67827.98982196339 ///  ///  ///  ///  ///  ///  /// 
+Row 69: 2.3 /// Fornecimento e montagem de impermeabilização de atravessamentos de pequeno diâmetro, considerando:
+ - Impermeabilização em manta termoplastica PVC, com 0,08" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo de 300 mm, totalmente aderida ao atravessamento;
+‐ Abraçadeira inox, selada para fecho do sistema de impermeabilização.
+
+Estão incluidas as fixações e vulcanizações necessárias a um perfeito acabamento.
+
+Apoios do Guarda-corpo das escadas (2 escadas). Excluida abertura e rufos chapéu (saia estanquidade).
+
+Considera-se tubular redondo Ø100 mm. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 70:  /// Prumos das escadas, de acesso à cobertura. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 72: 2.3.1 /// - Materiais Nacionais. ///  /// ud /// 22 /// 56.97715313725491 /// 1253.497369019608 ///  ///  ///  ///  ///  ///  /// 
+Row 74: 2.3.2 /// - Materiais Importados. ///  /// ud /// 22 /// 485.20293756265266 /// 10674.464626378358 ///  ///  ///  ///  ///  ///  /// 
+Row 76: 2.3.3 /// - Serviços. ///  /// ud /// 22 /// 228.5017274819105 /// 5027.038004602031 ///  ///  ///  ///  ///  ///  /// 
+Row 78: 2.4 /// Fornecimento e montagem de impermeabilização de atravessamentos de pequeno diâmetro, considerando:
+ - Impermeabilização em manta termoplastica PVC, com 0,08" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo de 300 mm, totalmente aderida ao atravessamento;
+‐ Abraçadeira inox, selada para fecho do sistema de impermeabilização.
+
+Estão incluidas as fixações e vulcanizações necessárias a um
+perfeito acabamento.
+
+Excluida abertura e rufos chapéu (saia estanquidade).
+
+Considera-se tubular redondo Ø200 mm. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 80: 2.4.1 /// - Materiais Nacionais. ///  /// ud /// 200 /// 61.200853333333335 /// 12240.170666666667 ///  ///  ///  ///  ///  ///  /// 
+Row 82: 2.4.2 /// - Materiais Importado. ///  /// ud /// 200 /// 504.36594129785465 /// 100873.18825957093 ///  ///  ///  ///  ///  ///  /// 
+Row 84: 2.4.3 /// - Serviços. ///  /// ud /// 200 /// 193.44061585770206 /// 38688.123171540414 ///  ///  ///  ///  ///  ///  /// 
+Row 86: 2.6 /// Fornecimento e montagem de sistema spda, considerando: ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 88: 2.6.1 /// SUPORTES SPDA:
+- Base em manta termoplástica, para suporte SPDA com 200 x 200 mm;
+‐ Suporte de SPDA (para barra de aluminio);
+Estão incluidas as fixações necessárias a um perfeito acabamento.
+Considera‐se incluido:
+‐ Limpeza da manta com tiner para permitir a adesão através de
+vulcanização a quente da base com a cobertura;
+‐ Marcação da base;
+‐ Aplicação da base garantindo perfeito acabamento e a
+estanqueidade da cobertura.
+Considera-se afastamento de 1500 mm entre suportes ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 90: 2.6.1.1 /// - Materiais Nacionais. ///  /// ud /// 8195 /// 10.597973856209151 /// 86850.395751634 ///  ///  ///  ///  ///  ///  /// 
+Row 92: 2.6.1.2 /// - Materiais Importados. ///  /// ud /// 8195 /// 50.51422502453079 /// 413964.0740760298 ///  ///  ///  ///  ///  ///  /// 
+Row 94: 2.6.1.3 /// - Serviços. ///  /// ud /// 8195 /// 25.99165759051388 /// 213001.63395426125 ///  ///  ///  ///  ///  ///  /// 
+Row 96: 2.6.2 /// ATRAVESSAMENTOS TUBULARES:
+‐ atravessamentos tubulares para passagem de cabos para
+interligação da malha SPDA da cobertura a estrutura metálica e pilares.
+Material
+‐ Tubular branco com diâmetro de 50 mm e acessórios diversos em PVC para passagem dos cabos;
+‐ Manta termoplástica com 1,15 mm esp.ª;
+‐ Abraçadeira inox;
+‐ Selante
+Instalação
+‐ abertura dos negativos com corte da telha, Isolamento e manta, para passagem dos atravessamentos;
+‐ instalação da tubagem e demais acessórios em PVC;
+‐ impermeabilização da tubagem com manta termoplástica, com ligação à manta de cobertura existente, para garantir estanquidade;
+‐ aplicação da abraçadeira e selagem da mesma, para fecho do sistema. ///  /// ud. /// 156 ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 97:  /// Quantidade estimada
+Projeto e ART por conta do cliente. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 99: 2.6.2.1 /// - Materiais Nacionais. ///  /// ud. /// 156 /// 348.22496405228753 /// 54323.094392156854 ///  ///  ///  ///  ///  ///  /// 
+Row 101: 2.6.2.2 /// - Materiais Importados. ///  /// ud. /// 156 /// 254.1064596569615 /// 39640.60770648599 ///  ///  ///  ///  ///  ///  /// 
+Row 103: 2.6.2.3 /// - Serviços. ///  /// ud. /// 156 /// 165.5642213750236 /// 25828.018534503684 ///  ///  ///  ///  ///  ///  /// 
+Row 105: 2.7 /// Montagem de junta de dilatação, constituida por:
+- Tarucel em espuma de polietileno com 30 mm de esp.ª ao longo do comprimento da junta;
+- Impermeabilização em manta termoplastica PVC, com 0,08" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo 400 mm totalmente aderida ao remate.
+
+Estão incluidas as fixações e vulcanizações necessárias a um perfeito acabamento. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 107: 2.7.1 /// - Materiais Nacionais. ///  /// m /// 289.2 /// 18.750261437908495 /// 5422.575607843137 ///  ///  ///  ///  ///  ///  /// 
+Row 109: 2.7.2 /// - Materiais Importados. ///  /// m /// 289.2 /// 533.297718266226 /// 154229.70012259253 ///  ///  ///  ///  ///  ///  /// 
+Row 111: 2.7.3 /// - Serviços. ///  /// m /// 289.2 /// 138.61190626746162 /// 40086.5632925499 ///  ///  ///  ///  ///  ///  /// 
+Row 114:  /// FECHAMENTOS METÁLICOS ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 116: 3.1 /// Fornecimento e montagem de revestimento de fechamento em sistema com painel sandwich metálico, considerando:
+- Painel Sandwich de fechamento aplicado na vertical, com nucleo em PIR com 70 mm esp.ª, ext. 0,65 mm pp na cor branco ral 9003 e int. 0,43 mm pp na cor branco ral 9003, fixo mecanicamente às terças existentes.
+
+Estão incluidas as fixações necessárias a um perfeito acabamento. ///  /// m² /// 5116.1 ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 117:  /// Considera-se faturamento direto dos painéis. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 118:  /// Considera-se faturamento direto dos painéis. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 119:  /// Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 121: 3.1.1 /// - Material de Faturamento direto. ///  /// m² /// 5116.1 /// 163.65125086413505 /// 837256.1645460014 /// 1330974.25 ///  ///  ///  ///  ///  /// 
+Row 123: 3.1.2 /// - Materiais Nacionais. ///  /// m² /// 5116.1 /// 28.490579565287 /// 145760.65411396482 ///  ///  ///  ///  ///  ///  /// 
+Row 125: 3.1.3 /// - Serviços. ///  /// m² /// 5116.1 /// 68.01224200856784 /// 347957.43134003395 ///  ///  ///  ///  ///  ///  /// 
+Row 127: 3.2 /// Fornecimento e montagem de remates canto e arranque considerando:
+- Remate de junta vertical entre grelhas, em chapa de aço pré-pintada 1 face na cor branco ral 9003, com 0,65 mm esp.ª e desenvolvimento máximo de 600 mm.
+
+Estão incluidas as fixações necessárias a um perfeito acabamento. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 129: 3.2.1 /// - Materiais Nacionais. ///  /// m /// 1599.4 /// 70.16999667288547 /// 112229.89267861303 ///  ///  ///  ///  ///  ///  /// 
+Row 131: 3.2.2 /// - Serviços. ///  /// m /// 1599.4 /// 19.86770656500283 /// 31776.40988006553 ///  ///  ///  ///  ///  ///  /// 
+Row 133: 3.3 /// Fornecimento e montagem de remates a vãos, considerando:
+- Remate a vãos, em chapa de aço pré-pintada 1 face na cor branco ral 9003, com 0,5 mm esp.ª e desenvolvimento máximo de 400 mm.
+
+Estão incluidas as fixações necessárias a um perfeito acabamento. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 135: 3.3.1 /// - Materiais Nacionais. ///  /// m /// 3975 /// 112.44233107749692 /// 446958.26603305025 ///  ///  ///  ///  ///  ///  /// 
+Row 137: 3.3.2 /// - Serviços. ///  /// m /// 3975 /// 53.16714699629926 /// 211339.40931028954 ///  ///  ///  ///  ///  ///  /// 
+Row 139: 3.4 /// Fornecimento e montagem de rufos capacete constituido por:
+‐ Rufo capacete em chapa metálica, pré pintada em um face na cor branco ral 9003 esp.ª 0,65 mm e desenvolvimento máximo 600 mm.
+
+Estão incluidas as fixações e selagens necessárias a um perfeito acabamento. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 141: 3.4.1 /// - Materiais Nacionais. ///  /// m /// 748 /// 106.01846961571569 /// 79301.81527255534 ///  ///  ///  ///  ///  ///  /// 
+Row 143: 3.4.2 /// - Serviços. ///  /// m /// 748 /// 34.38213837050856 /// 25717.8395011404 ///  ///  ///  ///  ///  ///  /// 
+Row 145: 3.5 /// Fornecimento e montagem de envelopamento dos tubos de queda nas fachadas, considerando:
+- caixa de envelopamento de tubo em chapa de aço galvalume esp.ª 0,95mm cbranco RAL 9003.
+
+Estão incluidas as fixações necessárias a um perfeito acabamento.
+excluido intervenção no tubo de queda. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 147: 3.5.1 /// - Materiais Nacionais. ///  /// m /// 206.3 /// 725.0297195450974 /// 149573.63114215358 ///  ///  ///  ///  ///  ///  /// 
+Row 149: 3.5.2 /// - Serviços. ///  /// m /// 206.3 /// 130.1411786622279 /// 26848.125158017618 ///  ///  ///  ///  ///  ///  /// 
+Row 151: 3.6 /// Fornecimento e montagem de atravessamentos a fachada, considerando:
+- Execução de abertura;
+- Remate de atravessamento, em chapa de aço pré-pintada 1 face na cor branco ral 9003, com 0,5 mm esp.ª e desenvolvimento máximo de 200 mm.
+
+Estão incluidas as fixações necessárias a um perfeito acabamento. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 154: 3.6.1 /// Considerando aberturas  de 210x 175 mm ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 156: 3.6.1.1 /// - Materiais Nacionais. ///  /// ud. /// 104 /// 990.108694612999 /// 102971.30423975189 ///  ///  ///  ///  ///  ///  /// 
+Row 158: 3.6.1.2 /// - Serviços. ///  /// ud. /// 104 /// 257.04807951154834 /// 26733.000269201028 ///  ///  ///  ///  ///  ///  /// 
+Row 160: 3.6.2 /// Considerando aberturas  de 610x 120 mm ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 162: 3.6.2.1 /// - Materiais Nacionais. ///  /// ud. /// 60 /// 1022.7241116594832 /// 61363.446699568995 ///  ///  ///  ///  ///  ///  /// 
+Row 164: 3.6.2.2 /// - Serviços. ///  /// ud. /// 60 /// 257.04807951154834 /// 15422.884770692901 ///  ///  ///  ///  ///  ///  /// 
+Row 166: 3.6.3 /// Considerando aberturas  de 1310 x 655 mm ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 168: 3.6.3.1 /// - Materiais Nacionais. ///  /// ud. /// 1 /// 3070.942296684522 /// 3070.942296684522 ///  ///  ///  ///  ///  ///  /// 
+Row 170: 3.6.3.2 /// - Serviços. ///  /// ud. /// 1 /// 749.5823864485955 /// 749.5823864485955 ///  ///  ///  ///  ///  ///  /// 
+Row 172: 3.6.4 /// Considerando aberturas  de 1116 x 864 mm ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 174: 3.6.4.1 /// - Materiais Nacionais. ///  /// ud. /// 1 /// 3287.5551434062154 /// 3287.5551434062154 ///  ///  ///  ///  ///  ///  /// 
+Row 176: 3.6.4.2 /// - Serviços. ///  /// ud. /// 1 /// 749.5823864485955 /// 749.5823864485955 ///  ///  ///  ///  ///  ///  /// 
+Row 178: 4 /// DETECÇÃO DE VAZAMENTOS ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 180: 4.1 /// SISTEMA DE DETECÇÃO DE VAZAMENTOS ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 181: 4.1.1 /// Fornecimento e montagem de sistema de malha constituida por:
+‐ Sistema de detecção de vazamento, malha de aço inoxidável 0,6mm;
+‐ Placa de conexão para fixação do tudo de controle, com cabo, 200mm x 200mm;
+‐ Tubo de acesso ao sistema de detecção de vazamento;
+‐ Isolamento térmico para tubo de acesso ao sistema de detecção de vazamento com plug de fechamento;
+‐ Peça em manta de PVC para arremate do tubo de acesso ao sistema de detecção de vazamento.
+Considera‐se 1 Control Pipe a cada 1500 m².
+
+Mão de obra especializada para teste de estanqueidade da impermeabilização considerando:
+- Executar os testes de estanqueidade de cada etapa que será testada lançando os circuitos provisórios de testes SOBRE as membranas de PVC, conectando esses circuitos ao terminal dos circuitos do gerador de pulsos do sistema e o aterramento proveniente de cada um dos “Control Pipes” já instalados no terminal do aterramento, fechando o modo de testar as membranas. ///  ///  ///  ///  ///  /// 4791114.116435939 ///  ///  ///  ///  ///  /// 
+Row 182:  /// Quando se testa uma área impermeabilizada com a tecnologia EFVM® e existem falhas na impermeabilização, estes pontos serão localizados com precisão e marcados na área impermeabilizada para serem mapeados e posteriormente reparados pela empresa executora da impermeabilização, se este for o caso.
+Quando se testa uma área impermeabilizada com a tecnologia EFVM® e não existem falhas na impermeabilização, essa área é considerada uma área estanque, sem falhas na impermeabilização no momento do teste. ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  ///  /// 
+Row 184: 4.1.1.1 /// - Materiais Importados. ///  /// m² /// 22776.6 /// 91.70196165751982 /// 2088658.8998886656 ///  ///  ///  ///  ///  ///  /// 
+Row 186: 4.1.1.2 /// - Serviços ///  /// m² /// 22776.6 /// 61.5692887641676 /// 1402339.0624659397 ///  ///  ///  ///  ///  ///  /// 
+Row 188: 4.1.1.3 /// - Serviços de Testes de estanqueidade. ///  /// m² /// 22776.6 /// 44.03313777777778 /// 1002925.1659093334 ///  ///  ///  ///  ///  ///  /// 
+Row 189:  ///  /// TOTAL GERAL + OPCIONAL ///  ///  ///  /// 26500000.000000007 /// #DIV/0! ///  ///  ///  ///  ///  /// 
+Row 194:  ///  ///  ///  ///  ///  ///  ///  /// 34394036.79 ///  ///  ///  ///  /// 
+Row 195:  ///  ///  ///  ///  ///  ///  ///  /// 30954633.111 ///  ///  ///  ///  /// 

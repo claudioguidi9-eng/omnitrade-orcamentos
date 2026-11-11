@@ -1,0 +1,898 @@
+{
+  "id": "galileu_cpq011",
+  "referencia": "BR_23263RCS_2.6B_OPÇÃO FIXO AQUAPANEL",
+  "data": "29/05/2024",
+  "versao": "2.6B",
+  "cliente": {
+    "nome": "RACIONAL ENGENHARIA LTDA",
+    "contato": "Carolina Ibanez",
+    "email": "carolina.ibanez@racional.com",
+    "telefone": "+55 11 97531-3910",
+    "uf": "SP",
+    "contribuinte_icms": true
+  },
+  "obra": {
+    "nome": "GALILEU (CPQ011, SP)",
+    "local": "Hortolândia - SP",
+    "objeto": "PVC 810/V - 2 mm (FATRA) - COBERTURA E FACHADA FIXO AQUAPANEL",
+    "area_cobertura_m2": 18500,
+    "area_fachada_m2": 4200,
+    "prazo_meses": 8
+  },
+  "comercial": {
+    "responsavel": "Ricardo Santos",
+    "email": "ricardo.santos@omnitradebrasil.com",
+    "celular": "+55 (11) 99202-4106",
+    "telefone": "+55 (11) 4561-3992"
+  },
+  "tributos": {
+    "pis": 0.65,
+    "cofins": 3,
+    "irpj_csll_venda": 3.08,
+    "irpj_csll_servico": 3.08,
+    "irpj_csll_projeto": 10.88,
+    "iss": 5,
+    "inss": 7.35,
+    "icms_sp_sp": 18,
+    "icms_interestadual_sul_sudeste": 12,
+    "icms_interestadual_demais": 7
+  },
+  "markups": {
+    "mm": 30.72,
+    "mc": 30.72,
+    "mem": 11.11,
+    "msub": 11.11,
+    "mmfd": 0
+  },
+  "totais": {
+    "venda_total": 26500000,
+    "custos": 19518701.67,
+    "margem": 3528735.23,
+    "impostos": 3452563.12,
+    "margem_percentual": 13.315982000000002,
+    "impostos_percentual": 13.028540075471698,
+    "custo_percentual": 73.655478,
+    "faturamento_direto": 4560341.97,
+    "venda_nacional": 2877771.45,
+    "venda_importado": 12436886.58,
+    "servicos_montagem": 6625000
+  },
+  "itens_proposta": [
+    {
+      "secao": "CANTEIRO",
+      "artigo": "CANT.",
+      "descricao": "SERVIÇOS GERAIS CANTEIRO:\n- Meios de descarga, movimentação e elevação de materiais;\n- Meios de elevação dos montadores;\n- Escadas de acesso à cobertura;\n- Meios de proteção coletiva;\n- Container de almoxarifado;\n- Transporte de materiais.",
+      "detalhe": "SERVIÇOS GERAIS CANTEIRO:\n- Meios de descarga, movimentação e elevação de materiais;\n- Meios de elevação dos montadores;\n- Escadas de acesso à cobertura;\n- Meios de proteção coletiva;\n- Container de almoxarifado;\n- Transporte de materiais.",
+      "tipo": "Serviços",
+      "unidade": "vg",
+      "quantidade": 22776.6,
+      "preco_unitario": 61.30535263774615,
+      "preco_total": 1396327.494888889,
+      "incluso": false
+    },
+    {
+      "secao": "SEGURO",
+      "artigo": "SEG.",
+      "descricao": "Seguro Performance Bond 20%.",
+      "detalhe": "Seguro Performance Bond 20%.",
+      "tipo": "Serviços",
+      "unidade": "vb",
+      "quantidade": 1,
+      "preco_unitario": 63099.109408561184,
+      "preco_total": 63099.109408561184,
+      "incluso": false
+    },
+    {
+      "secao": "GARANTIA",
+      "artigo": "GAR.",
+      "descricao": "Garantia 30 anos\n(Garantia da membrana ‐ fabricante)",
+      "detalhe": "Garantia 30 anos\n(Garantia da membrana ‐ fabricante)",
+      "tipo": "Serviços",
+      "unidade": "m²",
+      "quantidade": 22776.6,
+      "preco_unitario": 0,
+      "preco_total": 0,
+      "incluso": true
+    },
+    {
+      "secao": "A telha proposta permite, para 3 ou mais apoios, um vão máximo de 2500 mm. Considera-se faturamento direto da Telha, Aquapanel, barreira vapor, PIR nacional.",
+      "artigo": "1.1.1.1",
+      "descricao": "- Materiais de faturamento direto.",
+      "detalhe": "- Materiais de faturamento direto.",
+      "tipo": "Faturamento Direto",
+      "unidade": "m²",
+      "quantidade": 22776.6,
+      "preco_unitario": 163.46099985067616,
+      "preco_total": 3723085.8091989104,
+      "incluso": false
+    },
+    {
+      "secao": "A telha proposta permite, para 3 ou mais apoios, um vão máximo de 2500 mm. Considera-se faturamento direto da Telha, Aquapanel, barreira vapor, PIR nacional.",
+      "artigo": "1.1.1.2",
+      "descricao": "- Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m²",
+      "quantidade": 22776.6,
+      "preco_unitario": 50.96810196078432,
+      "preco_total": 1160880.07112,
+      "incluso": false
+    },
+    {
+      "secao": "A telha proposta permite, para 3 ou mais apoios, um vão máximo de 2500 mm. Considera-se faturamento direto da Telha, Aquapanel, barreira vapor, PIR nacional.",
+      "artigo": "1.1.1.3",
+      "descricao": "- Materiais Importados.",
+      "detalhe": "- Materiais Importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "m²",
+      "quantidade": 22776.6,
+      "preco_unitario": 388.5151663258333,
+      "preco_total": 8849054.537336975,
+      "incluso": false
+    },
+    {
+      "secao": "A telha proposta permite, para 3 ou mais apoios, um vão máximo de 2500 mm. Considera-se faturamento direto da Telha, Aquapanel, barreira vapor, PIR nacional.",
+      "artigo": "1.1.1.4",
+      "descricao": "- Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m²",
+      "quantidade": 22776.6,
+      "preco_unitario": 69.11120454901723,
+      "preco_total": 1574118.2615311458,
+      "incluso": false
+    },
+    {
+      "secao": "Excluido fornecimento e montagem de impermeabilização das calhas.",
+      "artigo": "1.2.1.1",
+      "descricao": "- Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m",
+      "quantidade": 785.4,
+      "preco_unitario": 222.16546627234015,
+      "preco_total": 174488.75721029594,
+      "incluso": false
+    },
+    {
+      "secao": "Excluido fornecimento e montagem de impermeabilização das calhas.",
+      "artigo": "1.2.1.2",
+      "descricao": "- Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 785.4,
+      "preco_unitario": 48.74518703739068,
+      "preco_total": 38284.46989916664,
+      "incluso": false
+    },
+    {
+      "secao": "Excluido fornecimento e montagem de impermeabilização das calhas.",
+      "artigo": "1.3.1",
+      "descricao": "Fornecimento e montagem de remate de fecho do sistema de impermeabilização na transição cobertura-calha, considerando:\n- Remate em chapa colaminada, com 1,4 mm esp.ª e desenvolvimento máximo de 150 mm;\n- Membrana sem armadura, termosoldada à membrana da cobertura existente, de forma a garantir o fecho do sistema de impermeabilização e a estanquidade da cobertura.\n\nEstão incluidas as fixações e vulcanizações necessárias a um perfeito acabamento. - - Materiais Importados.",
+      "detalhe": "- Materiais Importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "m",
+      "quantidade": 902.4,
+      "preco_unitario": 273.3417854839234,
+      "preco_total": 246663.62722069246,
+      "incluso": false
+    },
+    {
+      "secao": "Excluido fornecimento e montagem de impermeabilização das calhas.",
+      "artigo": "1.3.2",
+      "descricao": "Fornecimento e montagem de remate de fecho do sistema de impermeabilização na transição cobertura-calha, considerando:\n- Remate em chapa colaminada, com 1,4 mm esp.ª e desenvolvimento máximo de 150 mm;\n- Membrana sem armadura, termosoldada à membrana da cobertura existente, de forma a garantir o fecho do sistema de impermeabilização e a estanquidade da cobertura.\n\nEstão incluidas as fixações e vulcanizações necessárias a um perfeito acabamento. - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 902.4,
+      "preco_unitario": 44.18639545348305,
+      "preco_total": 39873.8032572231,
+      "incluso": false
+    },
+    {
+      "secao": "SISTEMAS COMPLEMENTARES",
+      "artigo": "2.1.1",
+      "descricao": "Fornecimento e montagem de caminhos de circulação,\nconstituídos por:\n‐ Marcação das linhas das passarelas;\n‐ Limpeza da manta da cobertura com tiner adequado para\npermitir a termofusão das mantas;\n‐ Aplicação da manta reforçada e anti‐derrapante, na cor cinza, larg. 1025mm, por termofusão à manta da cobertura.\n\nEstão incluidas as vulcanizações necessárias a um perfeito\nacabamento. - - Materiais importados.",
+      "detalhe": "- Materiais importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "m",
+      "quantidade": 786.4,
+      "preco_unitario": 533.4849530802435,
+      "preco_total": 419532.56710230344,
+      "incluso": false
+    },
+    {
+      "secao": "SISTEMAS COMPLEMENTARES",
+      "artigo": "2.1.2",
+      "descricao": "Fornecimento e montagem de caminhos de circulação,\nconstituídos por:\n‐ Marcação das linhas das passarelas;\n‐ Limpeza da manta da cobertura com tiner adequado para\npermitir a termofusão das mantas;\n‐ Aplicação da manta reforçada e anti‐derrapante, na cor cinza, larg. 1025mm, por termofusão à manta da cobertura.\n\nEstão incluidas as vulcanizações necessárias a um perfeito\nacabamento. - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 786.4,
+      "preco_unitario": 38.503307296517114,
+      "preco_total": 30279.000857981056,
+      "incluso": false
+    },
+    {
+      "secao": "SISTEMAS COMPLEMENTARES",
+      "artigo": "2.2.1",
+      "descricao": "Fornecimento e montagem de sistema de linha de vida, considerando:\n- Marcação da localização;\n- Corte dos revestimentos (telha, isolamento e manta);\n- Montagem dos pontaletes, cabo aço galvanizado e acessórios inox.\n\nEstão incluidos as fixações e vulcanizações necessárias a um perfeito acabamento.\nProjeto e ART incluso - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m",
+      "quantidade": 786.4,
+      "preco_unitario": 353.249465824863,
+      "preco_total": 277795.37992467225,
+      "incluso": false
+    },
+    {
+      "secao": "SISTEMAS COMPLEMENTARES",
+      "artigo": "2.2.2",
+      "descricao": "Fornecimento e montagem de sistema de linha de vida, considerando:\n- Marcação da localização;\n- Corte dos revestimentos (telha, isolamento e manta);\n- Montagem dos pontaletes, cabo aço galvanizado e acessórios inox.\n\nEstão incluidos as fixações e vulcanizações necessárias a um perfeito acabamento.\nProjeto e ART incluso - - Materiais Importados.",
+      "detalhe": "- Materiais Importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "m",
+      "quantidade": 786.4,
+      "preco_unitario": 144.4492755002099,
+      "preco_total": 113594.91025336506,
+      "incluso": false
+    },
+    {
+      "secao": "SISTEMAS COMPLEMENTARES",
+      "artigo": "2.2.3",
+      "descricao": "Fornecimento e montagem de sistema de linha de vida, considerando:\n- Marcação da localização;\n- Corte dos revestimentos (telha, isolamento e manta);\n- Montagem dos pontaletes, cabo aço galvanizado e acessórios inox.\n\nEstão incluidos as fixações e vulcanizações necessárias a um perfeito acabamento.\nProjeto e ART incluso - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 786.4,
+      "preco_unitario": 86.25125867492801,
+      "preco_total": 67827.98982196339,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.3.1",
+      "descricao": "- Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "ud",
+      "quantidade": 22,
+      "preco_unitario": 56.97715313725491,
+      "preco_total": 1253.497369019608,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.3.2",
+      "descricao": "- Materiais Importados.",
+      "detalhe": "- Materiais Importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "ud",
+      "quantidade": 22,
+      "preco_unitario": 485.20293756265266,
+      "preco_total": 10674.464626378358,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.3.3",
+      "descricao": "- Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "ud",
+      "quantidade": 22,
+      "preco_unitario": 228.5017274819105,
+      "preco_total": 5027.038004602031,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.4.1",
+      "descricao": "Fornecimento e montagem de impermeabilização de atravessamentos de pequeno diâmetro, considerando:\n - Impermeabilização em manta termoplastica PVC, com 0,08\" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo de 300 mm, totalmente aderida ao atravessamento;\n‐ Abraçadeira inox, selada para fecho do sistema de impermeabilização.\n\nEstão incluidas as fixações e vulcanizações necessárias a um\nperfeito acabamento.\n\nExcluida abertura e rufos chapéu (saia estanquidade).\n\nConsidera-se tubular redondo Ø200 mm. - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "ud",
+      "quantidade": 200,
+      "preco_unitario": 61.200853333333335,
+      "preco_total": 12240.170666666667,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.4.2",
+      "descricao": "Fornecimento e montagem de impermeabilização de atravessamentos de pequeno diâmetro, considerando:\n - Impermeabilização em manta termoplastica PVC, com 0,08\" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo de 300 mm, totalmente aderida ao atravessamento;\n‐ Abraçadeira inox, selada para fecho do sistema de impermeabilização.\n\nEstão incluidas as fixações e vulcanizações necessárias a um\nperfeito acabamento.\n\nExcluida abertura e rufos chapéu (saia estanquidade).\n\nConsidera-se tubular redondo Ø200 mm. - - Materiais Importado.",
+      "detalhe": "- Materiais Importado.",
+      "tipo": "Materiais Importados",
+      "unidade": "ud",
+      "quantidade": 200,
+      "preco_unitario": 504.36594129785465,
+      "preco_total": 100873.18825957093,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.4.3",
+      "descricao": "Fornecimento e montagem de impermeabilização de atravessamentos de pequeno diâmetro, considerando:\n - Impermeabilização em manta termoplastica PVC, com 0,08\" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo de 300 mm, totalmente aderida ao atravessamento;\n‐ Abraçadeira inox, selada para fecho do sistema de impermeabilização.\n\nEstão incluidas as fixações e vulcanizações necessárias a um\nperfeito acabamento.\n\nExcluida abertura e rufos chapéu (saia estanquidade).\n\nConsidera-se tubular redondo Ø200 mm. - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "ud",
+      "quantidade": 200,
+      "preco_unitario": 193.44061585770206,
+      "preco_total": 38688.123171540414,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.6.1.1",
+      "descricao": "SUPORTES SPDA:\n- Base em manta termoplástica, para suporte SPDA com 200 x 200 mm;\n‐ Suporte de SPDA (para barra de aluminio);\nEstão incluidas as fixações necessárias a um perfeito acabamento.\nConsidera‐se incluido:\n‐ Limpeza da manta com tiner para permitir a adesão através de\nvulcanização a quente da base com a cobertura;\n‐ Marcação da base;\n‐ Aplicação da base garantindo perfeito acabamento e a\nestanqueidade da cobertura.\nConsidera-se afastamento de 1500 mm entre suportes - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "ud",
+      "quantidade": 8195,
+      "preco_unitario": 10.597973856209151,
+      "preco_total": 86850.395751634,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.6.1.2",
+      "descricao": "SUPORTES SPDA:\n- Base em manta termoplástica, para suporte SPDA com 200 x 200 mm;\n‐ Suporte de SPDA (para barra de aluminio);\nEstão incluidas as fixações necessárias a um perfeito acabamento.\nConsidera‐se incluido:\n‐ Limpeza da manta com tiner para permitir a adesão através de\nvulcanização a quente da base com a cobertura;\n‐ Marcação da base;\n‐ Aplicação da base garantindo perfeito acabamento e a\nestanqueidade da cobertura.\nConsidera-se afastamento de 1500 mm entre suportes - - Materiais Importados.",
+      "detalhe": "- Materiais Importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "ud",
+      "quantidade": 8195,
+      "preco_unitario": 50.51422502453079,
+      "preco_total": 413964.0740760298,
+      "incluso": false
+    },
+    {
+      "secao": "Prumos das escadas, de acesso à cobertura.",
+      "artigo": "2.6.1.3",
+      "descricao": "SUPORTES SPDA:\n- Base em manta termoplástica, para suporte SPDA com 200 x 200 mm;\n‐ Suporte de SPDA (para barra de aluminio);\nEstão incluidas as fixações necessárias a um perfeito acabamento.\nConsidera‐se incluido:\n‐ Limpeza da manta com tiner para permitir a adesão através de\nvulcanização a quente da base com a cobertura;\n‐ Marcação da base;\n‐ Aplicação da base garantindo perfeito acabamento e a\nestanqueidade da cobertura.\nConsidera-se afastamento de 1500 mm entre suportes - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "ud",
+      "quantidade": 8195,
+      "preco_unitario": 25.99165759051388,
+      "preco_total": 213001.63395426125,
+      "incluso": false
+    },
+    {
+      "secao": "Quantidade estimada\nProjeto e ART por conta do cliente.",
+      "artigo": "2.6.2.1",
+      "descricao": "- Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "ud.",
+      "quantidade": 156,
+      "preco_unitario": 348.22496405228753,
+      "preco_total": 54323.094392156854,
+      "incluso": false
+    },
+    {
+      "secao": "Quantidade estimada\nProjeto e ART por conta do cliente.",
+      "artigo": "2.6.2.2",
+      "descricao": "- Materiais Importados.",
+      "detalhe": "- Materiais Importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "ud.",
+      "quantidade": 156,
+      "preco_unitario": 254.1064596569615,
+      "preco_total": 39640.60770648599,
+      "incluso": false
+    },
+    {
+      "secao": "Quantidade estimada\nProjeto e ART por conta do cliente.",
+      "artigo": "2.6.2.3",
+      "descricao": "- Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "ud.",
+      "quantidade": 156,
+      "preco_unitario": 165.5642213750236,
+      "preco_total": 25828.018534503684,
+      "incluso": false
+    },
+    {
+      "secao": "Quantidade estimada\nProjeto e ART por conta do cliente.",
+      "artigo": "2.7.1",
+      "descricao": "Montagem de junta de dilatação, constituida por:\n- Tarucel em espuma de polietileno com 30 mm de esp.ª ao longo do comprimento da junta;\n- Impermeabilização em manta termoplastica PVC, com 0,08\" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo 400 mm totalmente aderida ao remate.\n\nEstão incluidas as fixações e vulcanizações necessárias a um perfeito acabamento. - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m",
+      "quantidade": 289.2,
+      "preco_unitario": 18.750261437908495,
+      "preco_total": 5422.575607843137,
+      "incluso": false
+    },
+    {
+      "secao": "Quantidade estimada\nProjeto e ART por conta do cliente.",
+      "artigo": "2.7.2",
+      "descricao": "Montagem de junta de dilatação, constituida por:\n- Tarucel em espuma de polietileno com 30 mm de esp.ª ao longo do comprimento da junta;\n- Impermeabilização em manta termoplastica PVC, com 0,08\" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo 400 mm totalmente aderida ao remate.\n\nEstão incluidas as fixações e vulcanizações necessárias a um perfeito acabamento. - - Materiais Importados.",
+      "detalhe": "- Materiais Importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "m",
+      "quantidade": 289.2,
+      "preco_unitario": 533.297718266226,
+      "preco_total": 154229.70012259253,
+      "incluso": false
+    },
+    {
+      "secao": "Quantidade estimada\nProjeto e ART por conta do cliente.",
+      "artigo": "2.7.3",
+      "descricao": "Montagem de junta de dilatação, constituida por:\n- Tarucel em espuma de polietileno com 30 mm de esp.ª ao longo do comprimento da junta;\n- Impermeabilização em manta termoplastica PVC, com 0,08\" (2 mm) esp.ª, tipo Fatrafol e desenvolvimento máximo 400 mm totalmente aderida ao remate.\n\nEstão incluidas as fixações e vulcanizações necessárias a um perfeito acabamento. - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 289.2,
+      "preco_unitario": 138.61190626746162,
+      "preco_total": 40086.5632925499,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.1.1",
+      "descricao": "- Material de Faturamento direto.",
+      "detalhe": "- Material de Faturamento direto.",
+      "tipo": "Faturamento Direto",
+      "unidade": "m²",
+      "quantidade": 5116.1,
+      "preco_unitario": 163.65125086413505,
+      "preco_total": 837256.1645460014,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.1.2",
+      "descricao": "- Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m²",
+      "quantidade": 5116.1,
+      "preco_unitario": 28.490579565287,
+      "preco_total": 145760.65411396482,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.1.3",
+      "descricao": "- Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m²",
+      "quantidade": 5116.1,
+      "preco_unitario": 68.01224200856784,
+      "preco_total": 347957.43134003395,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.2.1",
+      "descricao": "Fornecimento e montagem de remates canto e arranque considerando:\n- Remate de junta vertical entre grelhas, em chapa de aço pré-pintada 1 face na cor branco ral 9003, com 0,65 mm esp.ª e desenvolvimento máximo de 600 mm.\n\nEstão incluidas as fixações necessárias a um perfeito acabamento. - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m",
+      "quantidade": 1599.4,
+      "preco_unitario": 70.16999667288547,
+      "preco_total": 112229.89267861303,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.2.2",
+      "descricao": "Fornecimento e montagem de remates canto e arranque considerando:\n- Remate de junta vertical entre grelhas, em chapa de aço pré-pintada 1 face na cor branco ral 9003, com 0,65 mm esp.ª e desenvolvimento máximo de 600 mm.\n\nEstão incluidas as fixações necessárias a um perfeito acabamento. - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 1599.4,
+      "preco_unitario": 19.86770656500283,
+      "preco_total": 31776.40988006553,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.3.1",
+      "descricao": "Fornecimento e montagem de remates a vãos, considerando:\n- Remate a vãos, em chapa de aço pré-pintada 1 face na cor branco ral 9003, com 0,5 mm esp.ª e desenvolvimento máximo de 400 mm.\n\nEstão incluidas as fixações necessárias a um perfeito acabamento. - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m",
+      "quantidade": 3975,
+      "preco_unitario": 112.44233107749692,
+      "preco_total": 446958.26603305025,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.3.2",
+      "descricao": "Fornecimento e montagem de remates a vãos, considerando:\n- Remate a vãos, em chapa de aço pré-pintada 1 face na cor branco ral 9003, com 0,5 mm esp.ª e desenvolvimento máximo de 400 mm.\n\nEstão incluidas as fixações necessárias a um perfeito acabamento. - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 3975,
+      "preco_unitario": 53.16714699629926,
+      "preco_total": 211339.40931028954,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.4.1",
+      "descricao": "Fornecimento e montagem de rufos capacete constituido por:\n‐ Rufo capacete em chapa metálica, pré pintada em um face na cor branco ral 9003 esp.ª 0,65 mm e desenvolvimento máximo 600 mm.\n\nEstão incluidas as fixações e selagens necessárias a um perfeito acabamento. - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m",
+      "quantidade": 748,
+      "preco_unitario": 106.01846961571569,
+      "preco_total": 79301.81527255534,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.4.2",
+      "descricao": "Fornecimento e montagem de rufos capacete constituido por:\n‐ Rufo capacete em chapa metálica, pré pintada em um face na cor branco ral 9003 esp.ª 0,65 mm e desenvolvimento máximo 600 mm.\n\nEstão incluidas as fixações e selagens necessárias a um perfeito acabamento. - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 748,
+      "preco_unitario": 34.38213837050856,
+      "preco_total": 25717.8395011404,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.5.1",
+      "descricao": "Fornecimento e montagem de envelopamento dos tubos de queda nas fachadas, considerando:\n- caixa de envelopamento de tubo em chapa de aço galvalume esp.ª 0,95mm cbranco RAL 9003.\n\nEstão incluidas as fixações necessárias a um perfeito acabamento.\nexcluido intervenção no tubo de queda. - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "m",
+      "quantidade": 206.3,
+      "preco_unitario": 725.0297195450974,
+      "preco_total": 149573.63114215358,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.5.2",
+      "descricao": "Fornecimento e montagem de envelopamento dos tubos de queda nas fachadas, considerando:\n- caixa de envelopamento de tubo em chapa de aço galvalume esp.ª 0,95mm cbranco RAL 9003.\n\nEstão incluidas as fixações necessárias a um perfeito acabamento.\nexcluido intervenção no tubo de queda. - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "m",
+      "quantidade": 206.3,
+      "preco_unitario": 130.1411786622279,
+      "preco_total": 26848.125158017618,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.6.1.1",
+      "descricao": "Considerando aberturas  de 210x 175 mm - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "ud.",
+      "quantidade": 104,
+      "preco_unitario": 990.108694612999,
+      "preco_total": 102971.30423975189,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.6.1.2",
+      "descricao": "Considerando aberturas  de 210x 175 mm - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "ud.",
+      "quantidade": 104,
+      "preco_unitario": 257.04807951154834,
+      "preco_total": 26733.000269201028,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.6.2.1",
+      "descricao": "Considerando aberturas  de 610x 120 mm - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "ud.",
+      "quantidade": 60,
+      "preco_unitario": 1022.7241116594832,
+      "preco_total": 61363.446699568995,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.6.2.2",
+      "descricao": "Considerando aberturas  de 610x 120 mm - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "ud.",
+      "quantidade": 60,
+      "preco_unitario": 257.04807951154834,
+      "preco_total": 15422.884770692901,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.6.3.1",
+      "descricao": "Considerando aberturas  de 1310 x 655 mm - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "ud.",
+      "quantidade": 1,
+      "preco_unitario": 3070.942296684522,
+      "preco_total": 3070.942296684522,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.6.3.2",
+      "descricao": "Considerando aberturas  de 1310 x 655 mm - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "ud.",
+      "quantidade": 1,
+      "preco_unitario": 749.5823864485955,
+      "preco_total": 749.5823864485955,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.6.4.1",
+      "descricao": "Considerando aberturas  de 1116 x 864 mm - - Materiais Nacionais.",
+      "detalhe": "- Materiais Nacionais.",
+      "tipo": "Materiais Nacionais",
+      "unidade": "ud.",
+      "quantidade": 1,
+      "preco_unitario": 3287.5551434062154,
+      "preco_total": 3287.5551434062154,
+      "incluso": false
+    },
+    {
+      "secao": "Espessura do material definida de acordo com documento 074216 - INSUL CORE MTL WALL PANEL - item 2.3 - A - 1.",
+      "artigo": "3.6.4.2",
+      "descricao": "Considerando aberturas  de 1116 x 864 mm - - Serviços.",
+      "detalhe": "- Serviços.",
+      "tipo": "Serviços",
+      "unidade": "ud.",
+      "quantidade": 1,
+      "preco_unitario": 749.5823864485955,
+      "preco_total": 749.5823864485955,
+      "incluso": false
+    },
+    {
+      "secao": "Quando se testa uma área impermeabilizada com a tecnologia EFVM® e existem falhas na impermeabilização, estes pontos serão localizados com precisão e marcados na área impermeabilizada para serem mapeados e posteriormente reparados pela empresa executora da impermeabilização, se este for o caso.\nQuando se testa uma área impermeabilizada com a tecnologia EFVM® e não existem falhas na impermeabilização, essa área é considerada uma área estanque, sem falhas na impermeabilização no momento do teste.",
+      "artigo": "4.1.1.1",
+      "descricao": "- Materiais Importados.",
+      "detalhe": "- Materiais Importados.",
+      "tipo": "Materiais Importados",
+      "unidade": "m²",
+      "quantidade": 22776.6,
+      "preco_unitario": 91.70196165751982,
+      "preco_total": 2088658.8998886656,
+      "incluso": false
+    },
+    {
+      "secao": "Quando se testa uma área impermeabilizada com a tecnologia EFVM® e existem falhas na impermeabilização, estes pontos serão localizados com precisão e marcados na área impermeabilizada para serem mapeados e posteriormente reparados pela empresa executora da impermeabilização, se este for o caso.\nQuando se testa uma área impermeabilizada com a tecnologia EFVM® e não existem falhas na impermeabilização, essa área é considerada uma área estanque, sem falhas na impermeabilização no momento do teste.",
+      "artigo": "4.1.1.2",
+      "descricao": "- Serviços",
+      "detalhe": "- Serviços",
+      "tipo": "Serviços",
+      "unidade": "m²",
+      "quantidade": 22776.6,
+      "preco_unitario": 61.5692887641676,
+      "preco_total": 1402339.0624659397,
+      "incluso": false
+    },
+    {
+      "secao": "Quando se testa uma área impermeabilizada com a tecnologia EFVM® e existem falhas na impermeabilização, estes pontos serão localizados com precisão e marcados na área impermeabilizada para serem mapeados e posteriormente reparados pela empresa executora da impermeabilização, se este for o caso.\nQuando se testa uma área impermeabilizada com a tecnologia EFVM® e não existem falhas na impermeabilização, essa área é considerada uma área estanque, sem falhas na impermeabilização no momento do teste.",
+      "artigo": "4.1.1.3",
+      "descricao": "- Serviços de Testes de estanqueidade.",
+      "detalhe": "- Serviços de Testes de estanqueidade.",
+      "tipo": "Serviços",
+      "unidade": "m²",
+      "quantidade": 22776.6,
+      "preco_unitario": 44.03313777777778,
+      "preco_total": 1002925.1659093334,
+      "incluso": false
+    }
+  ],
+  "notas": [
+    "Proposta para:",
+    "GALILEU (CPQ011, SP) - HORTOLANDIA, SP - PVC 810/V - 2mm (FATRA) - COBERTURA E FACHADA",
+    "NOTAS APLICÁVEIS À PROPOSTA",
+    "Considera‐se a execução dos trabalhos em horário normal, de segunda a sexta-feira das 7h00 as 18h00 e aos sabados das 07h00 as 16h00;",
+    "Considera‐se a execução dos trabalhos numa única intervenção. Serão cobrados os custos de mobilização, desmobilização e remobilização caso ocorra interrupção da atividade da Omnitrade Brasil por motivos que não lhe sejam imputáveis;",
+    "Não se considera qualquer serviços nas coberturas das marquises, prédios anexos, etc, que não sejam o galpão principal;",
+    "Considera-se a manta da cobertura com 2,0 mm e impermeabilização de remates/interferência com 2,00 mm esp.ª;",
+    "Exclui-se rede de proteção periféricas e horizontais;",
+    "Exclui-se todo e qualquer tratamento em relação a abertura ou atravessamentos/interferências nas coberturas, para além do mencionado na presente proposta;",
+    "Exclui‐se qualquer estrutura principal ou secundária de apoio aos revestimentos;",
+    "Excluido Roof Curbs para apoio de equipamentos, instalação de qualquer equipamento e aberturas de negativos para atravessamento de qualquer interferencia para além das mencionadas nessa proposta;",
+    "Para evitar dupla tributação, considerou‐se que o PIR nacional, barreira vapor, Aquapanel,telha de suporte e Paineis serão faturados pelos respetivos fornecedores diretamente ao cliente. Os valores desse faturamento direto serão integralmente descontados ao total desta proposta, pelo que, eventuais sobras de materiais serão pertença da Omnitrade Brasil;\n\nValor aproximado dos Materiais de faturamento Direto: R$4.500.000,00\nValor a ser faturado para três fornecedores.",
+    "As condições de pagamento do material de faturamento direto, dependerão da análise de crédito realizada pelo próprio fornecedor;",
+    "A quantificação e gestão de encomendas de todos os materiais desta proposta (incluindo os indicados como de faturamento direto) será da responsabilidade da Omnitrade Brasil;",
+    "Qualquer faturamento direto relacionado com esta proposta só terá o débito autorizado mediante pedido de compra assinado por representante legal do Grupo Omni trade Brasil ou seu procurador;",
+    "Não se considera a existência de defletores e platibandas",
+    "Consideramos o quantitativo da passarela Walkway e Linha de vida, conforme arquitetônico CPQ11-A-D-14-R;",
+    "Planejamento:\nPreparação, fabricação e transporte: a acordar\nExecução: a acordar"
+  ],
+  "matriz_responsabilidades": [
+    {
+      "item": 1,
+      "descricao": "Espaço de canteiro geral pavimentado e infraestruturado (energia, água e saneamento) para instalação do canteiro da Omnitrade Brasil.",
+      "omnitrade": false,
+      "cliente": true
+    },
+    {
+      "item": 2,
+      "descricao": "Container de almoxarifado (ou outro espaço fechado), para guarda e armazenamento de materiais acessórios, ferramentas e equipamentos.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 3,
+      "descricao": "Preparação das atividades contratadas, tanto nas propostas de definição de soluções, como na produção de desenhos aprovados para execução e quantificação dos materiais necessários.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 4,
+      "descricao": "Vestiários e banheiros das equipes de montagem.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 5,
+      "descricao": "Meios de proteção coletiva (redes de segurança e/ou linhas de vida), mesmo que de uso exclusivo da Omnitrade Brasil.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 6,
+      "descricao": "Montagem e desmontagem de escadas de acesso às coberturas.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 7,
+      "descricao": "Meios para descarga dos materiais na obra, bem como movimentação e elevação dos mesmos para as distintas frentes de trabalho.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 8,
+      "descricao": "Fornecimento de equipamento e ferramentas específicas para executar as atividades contratadas.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 9,
+      "descricao": "Pagamento do faturamento dos materiais de terceiros, necessários à execução das atividades contratadas (Faturamento Direto).",
+      "omnitrade": false,
+      "cliente": true
+    },
+    {
+      "item": 10,
+      "descricao": "Custos e meios para guarda, vigilância patrimonial e conservação dos materiais no canteiro de obras.",
+      "omnitrade": false,
+      "cliente": true
+    },
+    {
+      "item": 11,
+      "descricao": "Fornecimento de energia elétrica e pontos de tomada 220V/380V nos locais de trabalho.",
+      "omnitrade": false,
+      "cliente": true
+    },
+    {
+      "item": 12,
+      "descricao": "Fornecimento de água potável e água para limpeza/testes.",
+      "omnitrade": false,
+      "cliente": true
+    },
+    {
+      "item": 13,
+      "descricao": "Remoção de entulhos gerados pelas atividades até as caçambas da obra.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 14,
+      "descricao": "Fornecimento e destinação final de caçambas de entulho e resíduos.",
+      "omnitrade": false,
+      "cliente": true
+    },
+    {
+      "item": 15,
+      "descricao": "Liberação das frentes de serviço desobstruídas e com piso regularizado para tráfego de plataformas elevatórias.",
+      "omnitrade": false,
+      "cliente": true
+    },
+    {
+      "item": 16,
+      "descricao": "Meios de elevação de pessoas (plataformas tesoura e articuladas) e combustível/recarga.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 17,
+      "descricao": "Equipamentos de Proteção Individual (EPIs) de toda a equipe da Omnitrade.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 18,
+      "descricao": "Elaboração e emissão de ART de projeto e execução.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 19,
+      "descricao": "Seguro de Responsabilidade Civil e Riscos de Engenharia específico das atividades.",
+      "omnitrade": true,
+      "cliente": false
+    },
+    {
+      "item": 20,
+      "descricao": "Liberações de acesso, crachás e integração de segurança da equipe na obra.",
+      "omnitrade": false,
+      "cliente": true
+    }
+  ],
+  "condicoes_gerais": {
+    "regime": "À medição",
+    "impostos": "Nos valores desta proposta estão inclusos todos os impostos Federais, Estaduais e Municipais em vigor a esta data.",
+    "validade_dias": 15,
+    "retencao_percentual": 5,
+    "retencao_prazo_dias": 90,
+    "condicoes_pagamento": [
+      "Medição inicial no valor de R$ 5.000.000,00 para compra de material importado - Pagamento a 15 ddl após emissão da NF mista (50% materiais / 50% serviços);",
+      "Saldo dos materiais R$ 10.375.000,00 com a entrega em obra - Pagamento a 21 ddl após emissão da NF mista (50% materiais / 50% serviços);",
+      "Materiais de faturamento direto R$ 4.560.341,97 - Pagamento a 30 ddl após emissão da NF pelo fabricante;",
+      "Saldo dos serviços em medições mensais de acordo com o avanço físico dos trabalhos - Pagamento a 30 ddl após emissão da NF de serviços."
+    ]
+  },
+  "anexo_1": {
+    "titulo": "ANEXO I - ESPECIFICAÇÕES TÉCNICAS E QUANTITATIVOS",
+    "subtitulo": "GALILEU (CPQ011, SP) - HORTOLÂNDIA, SP - PVC 810/V - 2mm (FATRA) - COBERTURA E FACHADA",
+    "sistemas": [
+      {
+        "nome": "Sistema de Cobertura Termoacústica",
+        "detalhes": "Membrana impermeabilizante sintética de PVC FATRA 810/V com 2,0 mm de espessura, protegida contra raios UV, armada com poliéster, fixada mecanicamente sobre isolamento térmico de PIR de 50 mm e telha estrutural de aço galvalume autoportante."
+      },
+      {
+        "nome": "Linha de Vida Definitiva e Passarelas Walkway",
+        "detalhes": "Instalação de 786,40 metros lineares de passarela de circulação antiderrapante Walkway (largura 1.025 mm) e sistema de linha de vida homologado conforme normas NR-18 e NR-35."
+      },
+      {
+        "nome": "Fachada Ventilada Aquapanel Knauf",
+        "detalhes": "Painéis cimentícios Knauf Aquapanel Outdoor fixados em estrutura metálica auxiliar galvanizada com juntas tratadas e acabamento impermeabilizante de alta durabilidade."
+      }
+    ],
+    "areas_homologadas": [
+      {
+        "descricao": "Área de Cobertura Plana (Deck PIR + Fatra)",
+        "quantidade": 18500,
+        "unidade": "m²"
+      },
+      {
+        "descricao": "Área de Platibandas e Remates Periféricos",
+        "quantidade": 4276.6,
+        "unidade": "m²"
+      },
+      {
+        "descricao": "Área Total Considerada",
+        "quantidade": 22776.6,
+        "unidade": "m²"
+      },
+      {
+        "descricao": "Extensão de Calhas e Rufos",
+        "quantidade": 785.4,
+        "unidade": "m"
+      },
+      {
+        "descricao": "Extensão de Remates de Platibanda",
+        "quantidade": 902.4,
+        "unidade": "m"
+      }
+    ]
+  }
+}

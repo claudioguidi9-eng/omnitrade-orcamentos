@@ -1,0 +1,1252 @@
+[
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "REDES HORIZONTAIS",
+    "unidade": "m2",
+    "pu_referencia": 1.925925925925926,
+    "horas_unidade": 0.05925925925925926,
+    "un_dia_ponderado": 675,
+    "un_dia_referencia": 675
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "REDES PERIFÉRICAS C/ PRUMOS",
+    "unidade": "m2",
+    "pu_referencia": 4.814814814814815,
+    "horas_unidade": 0.14814814814814814,
+    "un_dia_ponderado": 270,
+    "un_dia_referencia": 270
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "TELHA PERFILADA SIMPLES",
+    "unidade": "m2",
+    "pu_referencia": 3.25,
+    "horas_unidade": 0.1,
+    "un_dia_ponderado": 400,
+    "un_dia_referencia": 450
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "CARTOLAS SEPARADORAS",
+    "unidade": "ml",
+    "pu_referencia": 3.25,
+    "horas_unidade": 0.1,
+    "un_dia_ponderado": 400,
+    "un_dia_referencia": 400
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "TELHA ZIPADA C/ CLIPES",
+    "unidade": "m2",
+    "pu_referencia": 3.466666666666667,
+    "horas_unidade": 0.10666666666666667,
+    "un_dia_ponderado": 375,
+    "un_dia_referencia": 375
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "PERFILAGEM TELHA ZIPADA",
+    "unidade": "m2",
+    "pu_referencia": 1.3,
+    "horas_unidade": 0.04,
+    "un_dia_ponderado": 1000,
+    "un_dia_referencia": 1000
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "ZIPAGEM TELHA ZIPADA",
+    "unidade": "m2",
+    "pu_referencia": 0.7428571428571429,
+    "horas_unidade": 0.022857142857142857,
+    "un_dia_ponderado": 1750,
+    "un_dia_referencia": 1750
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "PAINEL SANDWICH COBERTURA (LÃ DE ROCHA) DE 30 A 60 mm",
+    "unidade": "m2",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "PAINEL SANDWICH COBERTURA (LÃ DE ROCHA) > 60 mm",
+    "unidade": "m2",
+    "pu_referencia": 10.4,
+    "horas_unidade": 0.32,
+    "un_dia_ponderado": 125,
+    "un_dia_referencia": 125
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "PAINEL SANDWICH COBERTURA (POLIURETANO) DE 30 A 60 mm",
+    "unidade": "m2",
+    "pu_referencia": 7.428571428571428,
+    "horas_unidade": 0.22857142857142856,
+    "un_dia_ponderado": 175,
+    "un_dia_referencia": 175
+  },
+  {
+    "grupo": "COBERTURAS - RM",
+    "subgrupo": "",
+    "tarefa": "PAINEL SANDWICH COBERTURA (POLIURETANO) > 60 mm",
+    "unidade": "m2",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "",
+    "tarefa": "FACHADA EM TELHA PERFILADA SIMPLES",
+    "unidade": "m2",
+    "pu_referencia": 4.333333333333333,
+    "horas_unidade": 0.13333333333333333,
+    "un_dia_ponderado": 300,
+    "un_dia_referencia": 300
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "",
+    "tarefa": "PLATEAUX",
+    "unidade": "m2",
+    "pu_referencia": 3.714285714285714,
+    "horas_unidade": 0.11428571428571428,
+    "un_dia_ponderado": 350,
+    "un_dia_referencia": 350
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "",
+    "tarefa": "PAINEL SANDWICH FACHADA (LÃ DE ROCHA) DE 30 A 60 mm",
+    "unidade": "m2",
+    "pu_referencia": 11.555555555555555,
+    "horas_unidade": 0.35555555555555557,
+    "un_dia_ponderado": 112.5,
+    "un_dia_referencia": 112.5
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "",
+    "tarefa": "PAINEL SANDWICH FACHADA (LÃ DE ROCHA) > 60 mm",
+    "unidade": "m2",
+    "pu_referencia": 14.444444444444443,
+    "horas_unidade": 0.4444444444444444,
+    "un_dia_ponderado": 90,
+    "un_dia_referencia": 90
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "",
+    "tarefa": "PAINEL SANDWICH FACHADA (POLIURETANO) DE 30 A 60 mm",
+    "unidade": "m2",
+    "pu_referencia": 9.62962962962963,
+    "horas_unidade": 0.2962962962962963,
+    "un_dia_ponderado": 135,
+    "un_dia_referencia": 135
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "",
+    "tarefa": "PAINEL SANDWICH FACHADA (POLIURETANO) > 60 mm",
+    "unidade": "m2",
+    "pu_referencia": 11.555555555555555,
+    "horas_unidade": 0.35555555555555557,
+    "un_dia_ponderado": 112.5,
+    "un_dia_referencia": 112.5
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "",
+    "tarefa": "CONTRAFACHADA NORMAL",
+    "unidade": "m2",
+    "pu_referencia": 4.333333333333333,
+    "horas_unidade": 0.13333333333333333,
+    "un_dia_ponderado": 300,
+    "un_dia_referencia": 300
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "",
+    "tarefa": "CONTRAFACHADA COM CORTE DA TELHA NA EMPENA",
+    "unidade": "m2",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "CALEIRA SIMPLES SOLDADA COM TOPOS E SAÍDAS - RM",
+    "unidade": "ml",
+    "pu_referencia": 23.636363636363637,
+    "horas_unidade": 0.7272727272727273,
+    "un_dia_ponderado": 55,
+    "un_dia_referencia": 55
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "CALEIRA DUPLA SOLDADA COM TOPOS E SAÍDAS + LÃ + FORRA",
+    "unidade": "ml",
+    "pu_referencia": 43.33333333333333,
+    "horas_unidade": 1.3333333333333333,
+    "un_dia_ponderado": 30,
+    "un_dia_referencia": 30
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "CALEIRA SIMPLES DE SOBREPOSIÇÃO SELADA, COM TOPOS E SAÍDAS - RM",
+    "unidade": "ml",
+    "pu_referencia": 17.333333333333332,
+    "horas_unidade": 0.5333333333333333,
+    "un_dia_ponderado": 75,
+    "un_dia_referencia": 75
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "CALEIRA DUPLA DE SOBREPOSIÇÃO SELADA COM TOPOS E SAÍDAS + LÃ + FORRA",
+    "unidade": "ml",
+    "pu_referencia": 32.5,
+    "horas_unidade": 1.0,
+    "un_dia_ponderado": 40,
+    "un_dia_referencia": 40
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "REMATES NORMAIS - \"Z's\", \"L's\", COLAMINADOS, ETC…",
+    "unidade": "ml",
+    "pu_referencia": 3.714285714285714,
+    "horas_unidade": 0.11428571428571428,
+    "un_dia_ponderado": 350,
+    "un_dia_referencia": 350
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "REMATES DE FECHO SELADOS CONTRA PARAMENTOS",
+    "unidade": "ml",
+    "pu_referencia": 6.5,
+    "horas_unidade": 0.2,
+    "un_dia_ponderado": 200,
+    "un_dia_referencia": 200
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "LONGITUDINAIS",
+    "unidade": "ml",
+    "pu_referencia": 6.5,
+    "horas_unidade": 0.2,
+    "un_dia_ponderado": 200,
+    "un_dia_referencia": 200
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "CUMEEIRA",
+    "unidade": "ml",
+    "pu_referencia": 10.4,
+    "horas_unidade": 0.32,
+    "un_dia_ponderado": 125,
+    "un_dia_referencia": 125
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "COBRE CANALETES + BV+ LÃ",
+    "unidade": "ml",
+    "pu_referencia": 16.25,
+    "horas_unidade": 0.5,
+    "un_dia_ponderado": 80,
+    "un_dia_referencia": 80
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "CAPACETES NORMAIS",
+    "unidade": "ml",
+    "pu_referencia": 10.4,
+    "horas_unidade": 0.32,
+    "un_dia_ponderado": 125,
+    "un_dia_referencia": 125
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "CAPACETES C/ PRESILHA",
+    "unidade": "ml",
+    "pu_referencia": 13.0,
+    "horas_unidade": 0.4,
+    "un_dia_ponderado": 100,
+    "un_dia_referencia": 100
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "BAVETES",
+    "unidade": "ml",
+    "pu_referencia": 5.777777777777778,
+    "horas_unidade": 0.17777777777777778,
+    "un_dia_ponderado": 225,
+    "un_dia_referencia": 225
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "REMATES A VÃOS",
+    "unidade": "ml",
+    "pu_referencia": 17.333333333333332,
+    "horas_unidade": 0.5333333333333333,
+    "un_dia_ponderado": 75,
+    "un_dia_referencia": 75
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "REMATES EM ATRAVESSAMENTOS PEQ. Ø COM PIPECO (ATÉ 250 mm)",
+    "unidade": "Un",
+    "pu_referencia": 52.0,
+    "horas_unidade": 1.6,
+    "un_dia_ponderado": 25,
+    "un_dia_referencia": 25
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "REMATES - RM",
+    "tarefa": "BASES DE VENTILADORES/DOMUS/LANTERNINS PRÉ-FABRICADAS",
+    "unidade": "ml",
+    "pu_referencia": 13.0,
+    "horas_unidade": 0.4,
+    "un_dia_ponderado": 100,
+    "un_dia_referencia": 100
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "VENTILADORES E ATRAVESSAMENTOS - RM",
+    "tarefa": "EM COBERTURA SIMPLES COM ABERTURA E BASE",
+    "unidade": "Un",
+    "pu_referencia": 185.71428571428572,
+    "horas_unidade": 5.714285714285714,
+    "un_dia_ponderado": 7,
+    "un_dia_referencia": 7
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "VENTILADORES E ATRAVESSAMENTOS - RM",
+    "tarefa": "EM COBERTURA DUPLA COM ABERTURA E BASE",
+    "unidade": "Un",
+    "pu_referencia": 260.0,
+    "horas_unidade": 8.0,
+    "un_dia_ponderado": 5,
+    "un_dia_referencia": 5
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "VENTILADORES E ATRAVESSAMENTOS - RM",
+    "tarefa": "EM COBERTURA DE PAINEL COM ABERTURA E BASE",
+    "unidade": "Un",
+    "pu_referencia": 260.0,
+    "horas_unidade": 8.0,
+    "un_dia_ponderado": 5,
+    "un_dia_referencia": 5
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "VENTILADORES E ATRAVESSAMENTOS - RM",
+    "tarefa": "ABERTURAS AVAC + PIPECO (ATÉ 250 mm)",
+    "unidade": "Un",
+    "pu_referencia": 65.0,
+    "horas_unidade": 2.0,
+    "un_dia_ponderado": 20,
+    "un_dia_referencia": 20
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "VENTILADORES E ATRAVESSAMENTOS - RM",
+    "tarefa": "ABERTURAS AVAC + BASE (DE 250 A 750 mm)",
+    "unidade": "Un",
+    "pu_referencia": 86.66666666666666,
+    "horas_unidade": 2.6666666666666665,
+    "un_dia_ponderado": 15,
+    "un_dia_referencia": 15
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "VENTILADORES E ATRAVESSAMENTOS - RM",
+    "tarefa": "ABERTURAS AVAC + BASE (DE 750 A 1500 mm)",
+    "unidade": "Un",
+    "pu_referencia": 162.5,
+    "horas_unidade": 5.0,
+    "un_dia_ponderado": 8,
+    "un_dia_referencia": 8
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "VENTILADORES E ATRAVESSAMENTOS - RM",
+    "tarefa": "ABERTURAS AVAC + BASE (> 1500 mm)",
+    "unidade": "Un",
+    "pu_referencia": 433.33333333333337,
+    "horas_unidade": 13.333333333333334,
+    "un_dia_ponderado": 3,
+    "un_dia_referencia": 3
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "ISOLAMENTO - RM",
+    "tarefa": "LÃ EM ROLO - COBERTURA",
+    "unidade": "m2",
+    "pu_referencia": 1.3,
+    "horas_unidade": 0.04,
+    "un_dia_ponderado": 1000,
+    "un_dia_referencia": 1000
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "ISOLAMENTO - RM",
+    "tarefa": "LÃ EM ROLO - FACHADA",
+    "unidade": "m2",
+    "pu_referencia": 2.0,
+    "horas_unidade": 0.06153846153846154,
+    "un_dia_ponderado": 650,
+    "un_dia_referencia": 650
+  },
+  {
+    "grupo": "FACHADAS -RM",
+    "subgrupo": "ISOLAMENTO - RM",
+    "tarefa": "FACE FELT - COBERTURA",
+    "unidade": "m2",
+    "pu_referencia": 1.625,
+    "horas_unidade": 0.05,
+    "un_dia_ponderado": 800,
+    "un_dia_referencia": 800
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "CHAPA A TIRO",
+    "unidade": "m2",
+    "pu_referencia": 3.25,
+    "horas_unidade": 0.1,
+    "un_dia_ponderado": 400,
+    "un_dia_referencia": 400
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "CHAPA A PAP",
+    "unidade": "m2",
+    "pu_referencia": 4.333333333333333,
+    "horas_unidade": 0.13333333333333333,
+    "un_dia_ponderado": 300,
+    "un_dia_referencia": 300
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "BARREIRA DE VAPOR COLADA COM FITA ADESIVA",
+    "unidade": "m2",
+    "pu_referencia": 1.3,
+    "horas_unidade": 0.04,
+    "un_dia_ponderado": 1000,
+    "un_dia_referencia": 1000
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "LÃ SEM BETUME (ATÉ 80 mm)",
+    "unidade": "m2",
+    "pu_referencia": 2.6,
+    "horas_unidade": 0.08,
+    "un_dia_ponderado": 500,
+    "un_dia_referencia": 500
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "LÃ SEM BETUME (> 80 mm)",
+    "unidade": "m2",
+    "pu_referencia": 3.714285714285714,
+    "horas_unidade": 0.11428571428571428,
+    "un_dia_ponderado": 350,
+    "un_dia_referencia": 350
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "ISO 2\" (ATÉ 60 mm)",
+    "unidade": "m2",
+    "pu_referencia": 1.857142857142857,
+    "horas_unidade": 0.05714285714285714,
+    "un_dia_ponderado": 700,
+    "un_dia_referencia": 700
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "OSB  (ATÉ 15 mm)",
+    "unidade": "m2",
+    "pu_referencia": 6.5,
+    "horas_unidade": 0.2,
+    "un_dia_ponderado": 200,
+    "un_dia_referencia": 200
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "PRENCHIMENTO DE ONDA COM EPS - CORTADO FÁBRICA",
+    "unidade": "m2",
+    "pu_referencia": 2.6,
+    "horas_unidade": 0.08,
+    "un_dia_ponderado": 500,
+    "un_dia_referencia": 500
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "CHAPA + BV + ISOL",
+    "tarefa": "PRENCHIMENTO DE ONDA COM EPS - A CORTAR OBRA",
+    "unidade": "m2",
+    "pu_referencia": 4.333333333333333,
+    "horas_unidade": 0.13333333333333333,
+    "un_dia_ponderado": 300,
+    "un_dia_referencia": 300
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMPERMEABILIZAÇÃO - DECK",
+    "tarefa": "TPO/PVC ESTENDIDO - DECK",
+    "unidade": "m2",
+    "pu_referencia": 2.6,
+    "horas_unidade": 0.08,
+    "un_dia_ponderado": 500,
+    "un_dia_referencia": 500
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMPERMEABILIZAÇÃO - DECK",
+    "tarefa": "VULCANIZAÇÃO TPO/PVC - DECK",
+    "unidade": "m2",
+    "pu_referencia": 1.7333333333333334,
+    "horas_unidade": 0.05333333333333334,
+    "un_dia_ponderado": 750,
+    "un_dia_referencia": 750
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMPERMEABILIZAÇÃO - DECK",
+    "tarefa": "TPO/PVC ESTENDIDO E VULCANIZADO - DECK",
+    "unidade": "m2",
+    "pu_referencia": 4.333333333333333,
+    "horas_unidade": 0.13333333333333333,
+    "un_dia_ponderado": 300,
+    "un_dia_referencia": 300
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMPERMEABILIZAÇÃO - DECK",
+    "tarefa": "MONOCAPA BETUMINOSA - DECK",
+    "unidade": "m2",
+    "pu_referencia": 5.777777777777778,
+    "horas_unidade": 0.17777777777777778,
+    "un_dia_ponderado": 225,
+    "un_dia_referencia": 225
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMPERMEABILIZAÇÃO - DECK",
+    "tarefa": "BICAPA BETUMINOSA - DECK",
+    "unidade": "m2",
+    "pu_referencia": 7.222222222222221,
+    "horas_unidade": 0.2222222222222222,
+    "un_dia_ponderado": 180,
+    "un_dia_referencia": 180
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "REMATE PERIFÉRICO",
+    "unidade": "ml",
+    "pu_referencia": 4.333333333333333,
+    "horas_unidade": 0.13333333333333333,
+    "un_dia_ponderado": 300,
+    "un_dia_referencia": 300
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "REMATE CONTRA PENDENTE",
+    "unidade": "ml",
+    "pu_referencia": 13.0,
+    "horas_unidade": 0.4,
+    "un_dia_ponderado": 100,
+    "un_dia_referencia": 100
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "BASE DE VENTILADOR PRÉ-FABRICADA",
+    "unidade": "ml",
+    "pu_referencia": 7.428571428571428,
+    "horas_unidade": 0.22857142857142856,
+    "un_dia_ponderado": 175,
+    "un_dia_referencia": 175
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "BASE DE VENTILADOR FABRICADA EM OBRA",
+    "unidade": "ml",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "CALEIRA FIXADA PARA IMP",
+    "unidade": "ml",
+    "pu_referencia": 10.4,
+    "horas_unidade": 0.32,
+    "un_dia_ponderado": 125,
+    "un_dia_referencia": 125
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "TUBOS DE QUEDA/EMERGENTES (ADAPTADOR FEITO EM OBRA) - DECK",
+    "unidade": "Un",
+    "pu_referencia": 52.0,
+    "horas_unidade": 1.6,
+    "un_dia_ponderado": 25,
+    "un_dia_referencia": 25
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "TUBOS DE QUEDA/EMERGENTES (ADAPTADOR PRÉ FABRICADO) - DECK",
+    "unidade": "Un",
+    "pu_referencia": 26.0,
+    "horas_unidade": 0.8,
+    "un_dia_ponderado": 50,
+    "un_dia_referencia": 50
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "TROPLINES CIRCULARES - DECK",
+    "unidade": "Un",
+    "pu_referencia": 130.0,
+    "horas_unidade": 4.0,
+    "un_dia_ponderado": 10,
+    "un_dia_referencia": 10
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "TROPLINES RETANGULARES - DECK",
+    "unidade": "Un",
+    "pu_referencia": 130.0,
+    "horas_unidade": 4.0,
+    "un_dia_ponderado": 10,
+    "un_dia_referencia": 10
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "MONTAGEM REMATES - DECK",
+    "tarefa": "CAMINHOS DE CIRCULAÇÃO WALKWAY PAD",
+    "unidade": "ml",
+    "pu_referencia": 13.0,
+    "horas_unidade": 0.4,
+    "un_dia_ponderado": 100,
+    "un_dia_referencia": 100
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMP REMATES DECK - DECK",
+    "tarefa": "TPO/PVC COLADO E VULCANIZADO CALHAS - REMATES DECK",
+    "unidade": "ml",
+    "pu_referencia": 17.333333333333332,
+    "horas_unidade": 0.5333333333333333,
+    "un_dia_ponderado": 75,
+    "un_dia_referencia": 75
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMP REMATES DECK - DECK",
+    "tarefa": "TPO/PVC COLADO E VULCANIZADO PERIFÉRICOS - REMATES DECK",
+    "unidade": "ml",
+    "pu_referencia": 5.2,
+    "horas_unidade": 0.16,
+    "un_dia_ponderado": 250,
+    "un_dia_referencia": 250
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMP REMATES DECK - DECK",
+    "tarefa": "TPO/PVC COLADO E VULCANIZADO BASES - REMATES DECK",
+    "unidade": "ml",
+    "pu_referencia": 10.833333333333332,
+    "horas_unidade": 0.3333333333333333,
+    "un_dia_ponderado": 120,
+    "un_dia_referencia": 120
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMP REMATES DECK - DECK",
+    "tarefa": "TPO/PVC COLADO E VULCANIZADO DETALHES (TUBOS PEQ.Ø) - REMATES DECK",
+    "unidade": "Un",
+    "pu_referencia": 65.0,
+    "horas_unidade": 2.0,
+    "un_dia_ponderado": 20,
+    "un_dia_referencia": 20
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMP REMATES DECK - DECK",
+    "tarefa": "MONOCAPA BETUMINOSA - REMATES DECK",
+    "unidade": "m2",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "COBERTURAS DECK",
+    "subgrupo": "IMP REMATES DECK - DECK",
+    "tarefa": "BICAPA BETUMINOSA - REMATES DECK",
+    "unidade": "m2",
+    "pu_referencia": 18.57142857142857,
+    "horas_unidade": 0.5714285714285714,
+    "un_dia_ponderado": 70,
+    "un_dia_referencia": 70
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "",
+    "tarefa": "GEOTEXTIL - TERR",
+    "unidade": "m2",
+    "pu_referencia": 1.6049382716049383,
+    "horas_unidade": 0.04938271604938271,
+    "un_dia_ponderado": 810,
+    "un_dia_referencia": 810
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "",
+    "tarefa": "TPO/PVC ESTENDIDO - TERR",
+    "unidade": "m2",
+    "pu_referencia": 3.7037037037037037,
+    "horas_unidade": 0.11396011396011396,
+    "un_dia_ponderado": 351,
+    "un_dia_referencia": 351
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "",
+    "tarefa": "VULCANIZAÇÃO TPO/PVC - TERR",
+    "unidade": "m2",
+    "pu_referencia": 2.888888888888889,
+    "horas_unidade": 0.08888888888888889,
+    "un_dia_ponderado": 450,
+    "un_dia_referencia": 450
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "",
+    "tarefa": "TPO/PVC ESTENDIDO E VULCANIZADO - TERR",
+    "unidade": "m2",
+    "pu_referencia": 6.565656565656566,
+    "horas_unidade": 0.20202020202020202,
+    "un_dia_ponderado": 198,
+    "un_dia_referencia": 198
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "",
+    "tarefa": "PRIMÁRIO BETUMINOSO - TERR",
+    "unidade": "m2",
+    "pu_referencia": 0.7222222222222222,
+    "horas_unidade": 0.022222222222222223,
+    "un_dia_ponderado": 1800,
+    "un_dia_referencia": 1800
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "",
+    "tarefa": "MONOCAPA BETUMINOSA - TERR",
+    "unidade": "m2",
+    "pu_referencia": 5.252525252525253,
+    "horas_unidade": 0.16161616161616163,
+    "un_dia_ponderado": 247.5,
+    "un_dia_referencia": 247.5
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "",
+    "tarefa": "BICAPA BETUMINOSA - TERR",
+    "unidade": "m2",
+    "pu_referencia": 7.222222222222221,
+    "horas_unidade": 0.2222222222222222,
+    "un_dia_ponderado": 180,
+    "un_dia_referencia": 180
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "CALEIRAS - TERR",
+    "tarefa": "GEOTEXTIL - CALEIRA TERR",
+    "unidade": "m2",
+    "pu_referencia": 2.0634920634920633,
+    "horas_unidade": 0.06349206349206349,
+    "un_dia_ponderado": 630,
+    "un_dia_referencia": 630
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "CALEIRAS - TERR",
+    "tarefa": "TPO/PVC ESTENDIDO E VULCANIZADO - CALEIRA TERR",
+    "unidade": "m2",
+    "pu_referencia": 8.253968253968253,
+    "horas_unidade": 0.25396825396825395,
+    "un_dia_ponderado": 157.5,
+    "un_dia_referencia": 157.5
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "CALEIRAS - TERR",
+    "tarefa": "PRIMÁRIO BETUMINOSO - CALEIRA TERR",
+    "unidade": "m2",
+    "pu_referencia": 1.3,
+    "horas_unidade": 0.04,
+    "un_dia_ponderado": 1000,
+    "un_dia_referencia": 1000
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "CALEIRAS - TERR",
+    "tarefa": "MONOCAPA BETUMINOSA - CALEIRA TERR",
+    "unidade": "m2",
+    "pu_referencia": 7.602339181286549,
+    "horas_unidade": 0.23391812865497075,
+    "un_dia_ponderado": 171,
+    "un_dia_referencia": 171
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "CALEIRAS - TERR",
+    "tarefa": "BICAPA BETUMINOSA - CALEIRA TERR",
+    "unidade": "m2",
+    "pu_referencia": 13.0,
+    "horas_unidade": 0.4,
+    "un_dia_ponderado": 100,
+    "un_dia_referencia": 100
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "PLATIBANDAS - TERR",
+    "tarefa": "GEOTEXTIL - PALTIBANDA TERR",
+    "unidade": "m2",
+    "pu_referencia": 2.0634920634920633,
+    "horas_unidade": 0.06349206349206349,
+    "un_dia_ponderado": 630,
+    "un_dia_referencia": 630
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "PLATIBANDAS - TERR",
+    "tarefa": "TPO/PVC ESTENDIDO E VULCANIZADO - PLATIBANDA TERR",
+    "unidade": "m2",
+    "pu_referencia": 21.666666666666664,
+    "horas_unidade": 0.6666666666666666,
+    "un_dia_ponderado": 60,
+    "un_dia_referencia": 60
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "PLATIBANDAS - TERR",
+    "tarefa": "PRIMÁRIO BETUMINOSO - PLATIBANDA TERR",
+    "unidade": "m2",
+    "pu_referencia": 1.3,
+    "horas_unidade": 0.04,
+    "un_dia_ponderado": 1000,
+    "un_dia_referencia": 1000
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "PLATIBANDAS - TERR",
+    "tarefa": "MONOCAPA BETUMINOSA - PLATIBANDA TERR",
+    "unidade": "m2",
+    "pu_referencia": 10.833333333333332,
+    "horas_unidade": 0.3333333333333333,
+    "un_dia_ponderado": 120,
+    "un_dia_referencia": 120
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "PLATIBANDAS - TERR",
+    "tarefa": "BICAPA BETUMINOSA - PLATIBANDA TERR",
+    "unidade": "m2",
+    "pu_referencia": 21.666666666666664,
+    "horas_unidade": 0.6666666666666666,
+    "un_dia_ponderado": 60,
+    "un_dia_referencia": 60
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "REMATES - TERR",
+    "tarefa": "TUBOS DE QUEDA - TERR",
+    "unidade": "Un",
+    "pu_referencia": 52.0,
+    "horas_unidade": 1.6,
+    "un_dia_ponderado": 25,
+    "un_dia_referencia": 25
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "REMATES - TERR",
+    "tarefa": "TROPLINES - TERR",
+    "unidade": "Un",
+    "pu_referencia": 130.0,
+    "horas_unidade": 4.0,
+    "un_dia_ponderado": 10,
+    "un_dia_referencia": 10
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "REMATES - TERR",
+    "tarefa": "GEBERIT'S - TERR",
+    "unidade": "Un",
+    "pu_referencia": 130.0,
+    "horas_unidade": 4.0,
+    "un_dia_ponderado": 10,
+    "un_dia_referencia": 10
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "FULLFLOW",
+    "tarefa": "ABERTURA DE CALHA E INSTALAÇÃO DE RALOS",
+    "unidade": "Un",
+    "pu_referencia": 52.0,
+    "horas_unidade": 1.6,
+    "un_dia_ponderado": 25,
+    "un_dia_referencia": 25
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "FULLFLOW",
+    "tarefa": "LIGAÇÃO DA IMPERMEABILIZAÇÃO AOS RALOS",
+    "unidade": "Un",
+    "pu_referencia": 52.0,
+    "horas_unidade": 1.6,
+    "un_dia_ponderado": 25,
+    "un_dia_referencia": 25
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "FULLFLOW",
+    "tarefa": "FABRICAÇÃO DE COLETORES E PRUMADAS",
+    "unidade": "ml",
+    "pu_referencia": 32.5,
+    "horas_unidade": 1.0,
+    "un_dia_ponderado": 40,
+    "un_dia_referencia": 40
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "FULLFLOW",
+    "tarefa": "MONTAGEM DE COLETORES E PRUMADAS (INCLUÍNDO SUSPENSÃO E FIXAÇÃO)",
+    "unidade": "ml",
+    "pu_referencia": 43.33333333333333,
+    "horas_unidade": 1.3333333333333333,
+    "un_dia_ponderado": 30,
+    "un_dia_referencia": 30
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "FULLFLOW",
+    "tarefa": "MONTAGEM DE COLETORES PARA ATERRAR (SEM SUSPENSÃO OU FIXAÇÃO)",
+    "unidade": "ml",
+    "pu_referencia": 26.0,
+    "horas_unidade": 0.8,
+    "un_dia_ponderado": 50,
+    "un_dia_referencia": 50
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "SPDA",
+    "tarefa": "FABRICAÇÃO DE BASES OTB",
+    "unidade": "Un",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "SPDA",
+    "tarefa": "MARCAÇÃO, LIMPEZA E VULCANIZAÇÃO DE BASES OTB",
+    "unidade": "Un",
+    "pu_referencia": 13.0,
+    "horas_unidade": 0.4,
+    "un_dia_ponderado": 100,
+    "un_dia_referencia": 100
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "SPDA",
+    "tarefa": "INSTALAÇÃO DE BARRA DE ALUMÍNIO",
+    "unidade": "ml",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "SPDA",
+    "tarefa": "INSTALAÇÃO DE CABO DE COBRE",
+    "unidade": "ml",
+    "pu_referencia": 10.4,
+    "horas_unidade": 0.32,
+    "un_dia_ponderado": 125,
+    "un_dia_referencia": 125
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "SPDA",
+    "tarefa": "IMPERMEABILIZAÇÃO DE POSTES DE FRANKLIN",
+    "unidade": "Un",
+    "pu_referencia": 43.33333333333333,
+    "horas_unidade": 1.3333333333333333,
+    "un_dia_ponderado": 30,
+    "un_dia_referencia": 30
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "SPDA",
+    "tarefa": "\"BENGALAS\" DE ATRAVESSAMENTO 50mm",
+    "unidade": "Un",
+    "pu_referencia": 65.0,
+    "horas_unidade": 2.0,
+    "un_dia_ponderado": 20,
+    "un_dia_referencia": 20
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "LINHAS DE VIDA",
+    "tarefa": "MARCAÇÃO, ABERTURA E MONTAGEM DE PONTALETES",
+    "unidade": "Un",
+    "pu_referencia": 86.66666666666666,
+    "horas_unidade": 2.6666666666666665,
+    "un_dia_ponderado": 15,
+    "un_dia_referencia": 15
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "LINHAS DE VIDA",
+    "tarefa": "RECONSTRUÇÃO DA COBERTURA E IMPERMEABILIZAÇÃO DE PONTALETES",
+    "unidade": "Un",
+    "pu_referencia": 130.0,
+    "horas_unidade": 4.0,
+    "un_dia_ponderado": 10,
+    "un_dia_referencia": 10
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "LINHAS DE VIDA",
+    "tarefa": "RECONSTRUÇÃO DA COBERTURA E VEDAÇÃO DE PONTALETES COM PIPECOS",
+    "unidade": "Un",
+    "pu_referencia": 108.33333333333334,
+    "horas_unidade": 3.3333333333333335,
+    "un_dia_ponderado": 12,
+    "un_dia_referencia": 12
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "LINHAS DE VIDA",
+    "tarefa": "INSTALAÇÃO DE CABO DE AÇO COM ACESSÓRIOS",
+    "unidade": "ml",
+    "pu_referencia": 26.0,
+    "horas_unidade": 0.8,
+    "un_dia_ponderado": 50,
+    "un_dia_referencia": 50
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "ABERTURA EM COBERTURA DECK",
+    "unidade": "ml",
+    "pu_referencia": 10.833333333333332,
+    "horas_unidade": 0.3333333333333333,
+    "un_dia_ponderado": 120,
+    "un_dia_referencia": 120
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "ABERTURA EM COBERTURA SIMPLES",
+    "unidade": "ml",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "ABERTURA EM COBERTURA DUPLA / PAINEL",
+    "unidade": "ml",
+    "pu_referencia": 13.0,
+    "horas_unidade": 0.4,
+    "un_dia_ponderado": 100,
+    "un_dia_referencia": 100
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "ABERTURA PARA TROPLINE (CALHA+FACHADA METÁLICA)",
+    "unidade": "Un",
+    "pu_referencia": 81.25,
+    "horas_unidade": 2.5,
+    "un_dia_ponderado": 16,
+    "un_dia_referencia": 16
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "ABERTURA PARA TROPLINE (CALHA+FACHADA CONCRETO)",
+    "unidade": "Un",
+    "pu_referencia": 162.5,
+    "horas_unidade": 5.0,
+    "un_dia_ponderado": 8,
+    "un_dia_referencia": 8
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "REFORÇO DE ESTRUTURA PELO INTERIOR",
+    "unidade": "Un",
+    "pu_referencia": 260.0,
+    "horas_unidade": 8.0,
+    "un_dia_ponderado": 5,
+    "un_dia_referencia": 5
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "MONTAGEM DE SOLATUBES C/ 530mm",
+    "unidade": "Un",
+    "pu_referencia": 108.33333333333334,
+    "horas_unidade": 3.3333333333333335,
+    "un_dia_ponderado": 12,
+    "un_dia_referencia": 12
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "MONTAGEM DE SOLATUBES C/ 750mm",
+    "unidade": "Un",
+    "pu_referencia": 130.0,
+    "horas_unidade": 4.0,
+    "un_dia_ponderado": 10,
+    "un_dia_referencia": 10
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "MONTAGEM DE DOMUS ILUMINAÇÃO/VENTILADORES (ml de perimetro da abertura)",
+    "unidade": "ml",
+    "pu_referencia": 26.0,
+    "horas_unidade": 0.8,
+    "un_dia_ponderado": 50,
+    "un_dia_referencia": 50
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "ABERTURAS E INSTALAÇÕES DIVERSAS",
+    "tarefa": "MONTAGEM DE LANTERNINS (ml de perimetro da abertura)",
+    "unidade": "ml",
+    "pu_referencia": 37.14285714285714,
+    "horas_unidade": 1.1428571428571428,
+    "un_dia_ponderado": 35,
+    "un_dia_referencia": 35
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "TRANSFORMAÇÃO NO GALPÃO",
+    "tarefa": "CORTE DE REMATES (POR CORTE)",
+    "unidade": "ml",
+    "pu_referencia": 0.65,
+    "horas_unidade": 0.02,
+    "un_dia_ponderado": 2000,
+    "un_dia_referencia": 2000
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "TRANSFORMAÇÃO NO GALPÃO",
+    "tarefa": "QUINAGEM DE REMATES SIMPLES (POR QUINAGEM)",
+    "unidade": "ml",
+    "pu_referencia": 0.65,
+    "horas_unidade": 0.02,
+    "un_dia_ponderado": 2000,
+    "un_dia_referencia": 2000
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "TRANSFORMAÇÃO NO GALPÃO",
+    "tarefa": "QUINAGEM DE REMATES COMPLEXOS (POR QUINAGEM)",
+    "unidade": "ml",
+    "pu_referencia": 0.8666666666666667,
+    "horas_unidade": 0.02666666666666667,
+    "un_dia_ponderado": 1500,
+    "un_dia_referencia": 1500
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "TRANSFORMAÇÃO NO GALPÃO",
+    "tarefa": "FABRICAÇÃO DE ESTRUTURA LIGEIRA SEM SOLDADADURA",
+    "unidade": "Kg",
+    "pu_referencia": 6.5,
+    "horas_unidade": 0.2,
+    "un_dia_ponderado": 200,
+    "un_dia_referencia": 200
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "TRANSFORMAÇÃO NO GALPÃO",
+    "tarefa": "FABRICAÇÃO DE ESTRUTURA LIGEIRA COM SOLDADADURA",
+    "unidade": "Kg",
+    "pu_referencia": 8.666666666666666,
+    "horas_unidade": 0.26666666666666666,
+    "un_dia_ponderado": 150,
+    "un_dia_referencia": 150
+  },
+  {
+    "grupo": "COBERTURAS - TERR",
+    "subgrupo": "TRANSFORMAÇÃO NO GALPÃO",
+    "tarefa": "PINTURA DE PEÇAS METÁLICAS",
+    "unidade": "m2",
+    "pu_referencia": 26.0,
+    "horas_unidade": 0.8,
+    "un_dia_ponderado": 50,
+    "un_dia_referencia": 50
+  }
+]

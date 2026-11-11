@@ -1,0 +1,296 @@
+{
+  "cliente_contribuinte_padrao": false,
+  "uf_padrao": "RJ",
+  "aliquotas_federais": {
+    "pis": 0.0065,
+    "cofins": 0.03,
+    "irpj_csll_venda_servico": 0.0308,
+    "irpj_csll_projeto": 0.1088,
+    "iss": 0.05,
+    "inss": 0.0735
+  },
+  "locais_compra_icms": {
+    "São Paulo": 0.18,
+    "Resto do Brasil": 0.12,
+    "Importado": 0.04,
+    "Fat. Direto": 0.0,
+    "Sem Crédito": 0.0
+  },
+  "tipos_custo": {
+    "mat.ns": {
+      "tipo_custo": "mat.ns",
+      "descricao": "Materiais em nota mista de serviços (mat.ns):",
+      "tipo_nota": "Nota Mista de Serviços - Materiais",
+      "aliquota_padrao_rj_nao_contrib": 0.1173
+    },
+    "mat.nac.nv": {
+      "tipo_custo": "mat.nac.nv",
+      "descricao": "Materiais Nacionais em nota de venda (mat.nac.nv)",
+      "tipo_nota": "Nota de Venda de materiais",
+      "aliquota_padrao_rj_nao_contrib": 0.2873
+    },
+    "mat.imp.nv": {
+      "tipo_custo": "mat.imp.nv",
+      "descricao": "Materiais Importados em nota de venda (mat.imp.nv)",
+      "tipo_nota": "Nota de Venda de materiais",
+      "aliquota_padrao_rj_nao_contrib": 0.2873
+    },
+    "mat.fd": {
+      "tipo_custo": "mat.fd",
+      "descricao": "Materiais Faturamento direto (mat.fd):",
+      "tipo_nota": "Nota do Fornecedor",
+      "aliquota_padrao_rj_nao_contrib": 0.0
+    },
+    "proj": {
+      "tipo_custo": "proj",
+      "descricao": "Projeto (proj)",
+      "tipo_nota": "Nota de Serviços - Projeto",
+      "aliquota_padrao_rj_nao_contrib": 0.1953
+    },
+    "me": {
+      "tipo_custo": "me",
+      "descricao": "Meios de Elevação c/ locação (me):",
+      "tipo_nota": "Nota Mista de Serviços - Locação",
+      "aliquota_padrao_rj_nao_contrib": 0.1173
+    },
+    "cg.cl": {
+      "tipo_custo": "cg.cl",
+      "descricao": "Custos gerais c/ locação (cg.cl)",
+      "tipo_nota": "Nota Mista de Serviços - Locação",
+      "aliquota_padrao_rj_nao_contrib": 0.1173
+    },
+    "cg.sl": {
+      "tipo_custo": "cg.sl",
+      "descricao": "Custos gerais s/ locação (cg.sl)",
+      "tipo_nota": "Nota Mista de Serviços - Mão de Obra",
+      "aliquota_padrao_rj_nao_contrib": 0.1908
+    },
+    "mo.inst": {
+      "tipo_custo": "mo.inst",
+      "descricao": "Mão-de-Obra de instalação (mo.inst):",
+      "tipo_nota": "Nota Mista de Serviços - Mão de Obra",
+      "aliquota_padrao_rj_nao_contrib": 0.1908
+    },
+    "mo.transf": {
+      "tipo_custo": "mo.transf",
+      "descricao": "Mão-de-Obra de transformação (mo.transf):",
+      "tipo_nota": "Nota Mista de Serviços - Mão de Obra",
+      "aliquota_padrao_rj_nao_contrib": 0.1908
+    },
+    "sub": {
+      "tipo_custo": "sub",
+      "descricao": "Subcontratações (sub):",
+      "tipo_nota": "Nota Mista de Serviços - Mão de Obra",
+      "aliquota_padrao_rj_nao_contrib": 0.1908
+    },
+    "tr": {
+      "tipo_custo": "tr",
+      "descricao": "Transportes (tr):",
+      "tipo_nota": "Nota Mista de Serviços - Mão de Obra",
+      "aliquota_padrao_rj_nao_contrib": 0.1908
+    },
+    "ferr.cons": {
+      "tipo_custo": "ferr.cons",
+      "descricao": "Ferramentas e Consumíveis (ferr.cons):",
+      "tipo_nota": "Nota Mista de Serviços - Mão de Obra",
+      "aliquota_padrao_rj_nao_contrib": 0.1908
+    },
+    "ci": {
+      "tipo_custo": "ci",
+      "descricao": "Custos Indirectos / C. Estrutura (ci):",
+      "tipo_nota": "Nota Mista de Serviços - Mão de Obra",
+      "aliquota_padrao_rj_nao_contrib": 0.1908
+    }
+  },
+  "icms_por_uf": {
+    "AC": {
+      "regiao": "NORTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.19,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.19
+    },
+    "AM": {
+      "regiao": "NORTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.2,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.2
+    },
+    "AP": {
+      "regiao": "NORTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.18,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.18
+    },
+    "PA": {
+      "regiao": "NORTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.19,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.19
+    },
+    "RO": {
+      "regiao": "NORTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.195,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.195
+    },
+    "RR": {
+      "regiao": "NORTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.2,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.2
+    },
+    "TO": {
+      "regiao": "NORTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.2,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.2
+    },
+    "AL": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.2,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.2
+    },
+    "BA": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.205,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.205
+    },
+    "CE": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.2,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.2
+    },
+    "MA": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.22,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.22
+    },
+    "PB": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.2,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.2
+    },
+    "PE": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.205,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.205
+    },
+    "PI": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.21,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.21
+    },
+    "RN": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.18,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.18
+    },
+    "SE": {
+      "regiao": "NORDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.2,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.2
+    },
+    "DF": {
+      "regiao": "C. OESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.2,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.2
+    },
+    "GO": {
+      "regiao": "C. OESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.19,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.19
+    },
+    "MS": {
+      "regiao": "C. OESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.17,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.17
+    },
+    "MT": {
+      "regiao": "C. OESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.17,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.17
+    },
+    "ES": {
+      "regiao": "SUDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.17,
+      "nac_contribuinte": 0.07,
+      "nac_nao_contribuinte": 0.17
+    },
+    "MG": {
+      "regiao": "SUDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.18,
+      "nac_contribuinte": 0.12,
+      "nac_nao_contribuinte": 0.18
+    },
+    "RJ": {
+      "regiao": "SUDESTE",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.22,
+      "nac_contribuinte": 0.12,
+      "nac_nao_contribuinte": 0.22
+    },
+    "SP": {
+      "regiao": "SUDESTE",
+      "imp_contribuinte": 0.18,
+      "imp_nao_contribuinte": 0.18,
+      "nac_contribuinte": 0.18,
+      "nac_nao_contribuinte": 0.18
+    },
+    "PR": {
+      "regiao": "SUL",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.195,
+      "nac_contribuinte": 0.12,
+      "nac_nao_contribuinte": 0.195
+    },
+    "RS": {
+      "regiao": "SUL",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.17,
+      "nac_contribuinte": 0.12,
+      "nac_nao_contribuinte": 0.17
+    },
+    "SC": {
+      "regiao": "SUL",
+      "imp_contribuinte": 0.04,
+      "imp_nao_contribuinte": 0.17,
+      "nac_contribuinte": 0.12,
+      "nac_nao_contribuinte": 0.17
+    }
+  }
+}
